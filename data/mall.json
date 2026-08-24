@@ -1826,7 +1826,126 @@
       "jam_operasional": "10:00 - 22:00",
       "kontak": "0361-4749100",
       "keterangan": "Mall komunitas modern yang menyasar kalangan profesional muda dan keluarga di kawasan pusat pemerintahan Renon"
+    },
+      {
+      "id": "mall-bali-001",
+      "nama": "Beachwalk Shopping Center",
+      "kota": "Badung",
+      "provinsi": "Bali",
+      "alamat": "Jl. Pantai Kuta, Kuta, Kec. Kuta, Kab. Badung",
+      "lat": -8.7171,
+      "lng": 115.1691,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0361-8464888",
+      "keterangan": "Pusat perbelanjaan berkonsep terbuka dengan arsitektur tropis modern yang berhadapan langsung dengan Pantai Kuta"
+    },
+    {
+      "id": "mall-bali-002",
+      "nama": "Icon Bali Mall",
+      "kota": "Denpasar",
+      "provinsi": "Bali",
+      "alamat": "Jl. Danau Tamblingan No. 27, Sanur, Kec. Denpasar Selatan, Kota Denpasar",
+      "lat": -8.6984,
+      "lng": 115.2631,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0361-2015888",
+      "keterangan": "Mall tepi pantai ramah lingkungan di Sanur dengan akses langsung ke pantai serta fasilitas amphiteater budaya"
+    },
+    {
+      "id": "mall-bali-003",
+      "nama": "Living World Denpasar",
+      "kota": "Denpasar",
+      "provinsi": "Bali",
+      "alamat": "Jl. Gatos Subroto Timur No. 88, Tonja, Kec. Denpasar Utara, Kota Denpasar",
+      "lat": -8.6362,
+      "lng": 115.2341,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0361-3351888",
+      "keterangan": "Pusat perbelanjaan dan gaya hidup terbesar di Bali yang mengusung konsep ramah lingkungan dan budaya lokal"
+    },
+    {
+      "id": "mall-bali-004",
+      "nama": "Mall Bali Galeria (MBG)",
+      "kota": "Badung",
+      "provinsi": "Bali",
+      "alamat": "Jl. Bypass Ngurah Rai, Kuta, Kec. Kuta, Kab. Badung",
+      "lat": -8.7192,
+      "lng": 115.1832,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0361-755300",
+      "keterangan": "Pusat perbelanjaan keluarga modern terlengkap yang berada di kawasan strategis Simpang Siur Dewa Ruci"
+    },
+    {
+      "id": "mall-bali-005",
+      "nama": "Discovery Shopping Mall",
+      "kota": "Badung",
+      "provinsi": "Bali",
+      "alamat": "Jl. Kartika Plaza, Kuta, Kec. Kuta, Kab. Badung",
+      "lat": -8.7285,
+      "lng": 115.1694,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0361-769888",
+      "keterangan": "Mall gaya hidup ikonik di kawasan Kuta yang menawarkan pemandangan lansung matahari terbenam tepi pantai"
+    },
+    {
+      "id": "mall-bali-006",
+      "nama": "Trans Studio Mall (TSM) Bali",
+      "kota": "Denpasar",
+      "provinsi": "Bali",
+      "alamat": "Jl. Imam Bonjol No. 440, Pemecutan Klod, Kec. Denpasar Barat, Kota Denpasar",
+      "lat": -8.6948,
+      "lng": 115.1884,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0361-6203888",
+      "keterangan": "Pusat belanja dan rekreasi keluarga yang terintegrasi dengan wahana permainan indoor Trans Studio Bali"
+    },
+    {
+      "id": "mall-bali-007",
+      "nama": "Level 21 Mall",
+      "kota": "Denpasar",
+      "provinsi": "Bali",
+      "alamat": "Jl. Teuku Umar No. 1, Dauh Puri Klod, Kec. Denpasar Barat, Kota Denpasar",
+      "lat": -8.6732,
+      "lng": 115.2125,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0361-257576",
+      "keterangan": "Mall gaya hidup kekinian dan pusat kuliner terfavorit yang berlokasi di jantung Kota Denpasar"
+    },
+    {
+      "id": "mall-bali-008",
+      "nama": "Lippo Mall Kuta",
+      "kota": "Badung",
+      "provinsi": "Bali",
+      "alamat": "Jl. Kartika Plaza, Kuta, Kec. Kuta, Kab. Badung",
+      "lat": -8.7364,
+      "lng": 115.1683,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0361-8978000",
+      "keterangan": "Pusat perbelanjaan dekat Bandara Ngurah Rai yang dilengkapi area sunken plaza dan pilihan kuliner luas"
+    },
+    {
+      "id": "mall-bali-009",
+      "nama": "Samasta Lifestyle Village",
+      "kota": "Badung",
+      "provinsi": "Bali",
+      "alamat": "Jl. Wanagiri, Jimbaran, Kec. Kuta Selatan, Kab. Badung",
+      "lat": -8.7831,
+      "lng": 115.1648,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0361-4468600",
+      "keterangan": "Pusat perbelanjaan dan gaya hidup ruang terbuka hijau berkonsep pedestrian di wilayah Jimbaran"
+    },
+    {
+      "id": "mall-bali-010",
+      "nama": "Plaza Renon",
+      "kota": "Denpasar",
+      "provinsi": "Bali",
+      "alamat": "Jl. Raya Puputan No. 210, Renon, Kec. Denpasar Selatan, Kota Denpasar",
+      "lat": -8.6725,
+      "lng": 115.2324,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0361-4749100",
+      "keterangan": "Mall komunitas modern yang menyasar kalangan profesional muda dan keluarga di kawasan pusat pemerintahan Renon"
     }
-      
   ]
 }
