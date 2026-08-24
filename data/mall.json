@@ -1946,6 +1946,91 @@
       "jam_operasional": "10:00 - 22:00",
       "kontak": "0361-4749100",
       "keterangan": "Mall komunitas modern yang menyasar kalangan profesional muda dan keluarga di kawasan pusat pemerintahan Renon"
+    },
+      {
+      "id": "mall-ntb-001",
+      "nama": "Lombok Epicentrum Mall (LEM)",
+      "kota": "Mataram",
+      "provinsi": "Nusa Tenggara Barat",
+      "alamat": "Jl. Sriwijaya No. 333, Punia, Kec. Mataram, Kota Mataram",
+      "lat": -8.5985,
+      "lng": 116.1084,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0370-6172000",
+      "keterangan": "Pusat perbelanjaan terbesar, termewah, dan terpusat di Pulau Lombok dengan tenant gaya hidup lengkap"
+    },
+    {
+      "id": "mall-ntb-002",
+      "nama": "Mataram Mall",
+      "kota": "Mataram",
+      "provinsi": "Nusa Tenggara Barat",
+      "alamat": "Jl. Pejanggik No. 105, Cilinaya, Kec. Cakranegara, Kota Mataram",
+      "lat": -8.5838,
+      "lng": 116.1215,
+      "jam_operasional": "09:30 - 21:30",
+      "kontak": "0370-638888",
+      "keterangan": "Pusat perbelanjaan legendaris di kawasan bisnis Cakranegara yang menyediakan produk ritel, fashion, dan elektronik"
+    },
+    {
+      "id": "mall-ntb-003",
+      "nama": "Suzuya Shopping Center Mataram",
+      "kota": "Mataram",
+      "provinsi": "Nusa Tenggara Barat",
+      "alamat": "Jl. Pejanggik No. 88, Mataram Barat, Kec. Selaparang, Kota Mataram",
+      "lat": -8.5824,
+      "lng": 116.1092,
+      "jam_operasional": "09:30 - 21:30",
+      "kontak": "0370-621888",
+      "keterangan": "Pusat belanja ritel dan wahana hiburan keluarga terjangkau di pusat Kota Mataram"
+    },
+    {
+      "id": "mall-ntb-004",
+      "nama": "Transmart Mataram",
+      "kota": "Mataram",
+      "provinsi": "Nusa Tenggara Barat",
+      "alamat": "Jl. Selaparang No. 60, Mayura, Kec. Cakranegara, Kota Mataram",
+      "lat": -8.5862,
+      "lng": 116.1311,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0370-7850800",
+      "keterangan": "Pusat belanja modern satu atap yang dilengkapi supermarket, department store, dan wahana bermain Trans Studio Mini"
+    },
+      {
+      "id": "mall-ntt-001",
+      "nama": "Lippo Plaza Kupang",
+      "kota": "Kupang",
+      "provinsi": "Nusa Tenggara Timur",
+      "alamat": "Jl. Veteran, Fatululi, Kec. Oebobo, Kota Kupang",
+      "lat": -10.1654,
+      "lng": 123.6122,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0380-8438888",
+      "keterangan": "Pusat perbelanjaan modern terbesar dan terlengkap di Provinsi NTT yang terintegrasi dengan RS Siloam dan Cinepolis"
+    },
+    {
+      "id": "mall-ntt-002",
+      "nama": "Ramayana Mall Kupang",
+      "kota": "Kupang",
+      "provinsi": "Nusa Tenggara Timur",
+      "alamat": "Jl. W.J. Lalamentik, Oebufu, Kec. Oebobo, Kota Kupang",
+      "lat": -10.1712,
+      "lng": 123.6085,
+      "jam_operasional": "09:30 - 21:30",
+      "kontak": "0380-822888",
+      "keterangan": "Pusat belanja ritel fashion, supermarket, dan hiburan keluarga terfavorit bagi warga Kota Kupang"
+    },
+    {
+      "id": "mall-ntt-003",
+      "nama": "Transmart Kupang",
+      "kota": "Kupang",
+      "provinsi": "Nusa Tenggara Timur",
+      "alamat": "Jl. Frans Seda, Fatululi, Kec. Oebobo, Kota Kupang",
+      "lat": -10.1618,
+      "lng": 123.6145,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0380-8439000",
+      "keterangan": "Pusat belanja modern keluarga yang dilengkapi hypermarket dan wahana bermain indoor Trans Studio Mini"
     }
+      
   ]
 }
