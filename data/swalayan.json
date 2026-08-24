@@ -1,0 +1,42 @@
+{
+  "kategori": "Swalayan",
+  "warna": "#E9C46A",
+  "data": [
+    {
+      "id": "swalayan-001",
+      "nama": "Transmart Carrefour Cempaka Putih",
+      "kota": "Jakarta Pusat",
+      "provinsi": "DKI Jakarta",
+      "alamat": "Jl. Letjen Suprapto, Jakarta Pusat",
+      "lat": -6.1795,
+      "lng": 106.8686,
+      "jam_operasional": "09:00 - 22:00",
+      "kontak": "021-4213700",
+      "keterangan": "Hypermarket dan pusat perbelanjaan keluarga"
+    },
+    {
+      "id": "swalayan-002",
+      "nama": "Hypermart Sunset Road",
+      "kota": "Denpasar",
+      "provinsi": "Bali",
+      "alamat": "Jl. Sunset Road, Kuta, Badung",
+      "lat": -8.7118,
+      "lng": 115.1698,
+      "jam_operasional": "09:00 - 22:00",
+      "kontak": "0361-8465888",
+      "keterangan": "Hypermarket kebutuhan sehari-hari"
+    },
+    {
+      "id": "swalayan-003",
+      "nama": "Lotte Mart Medan",
+      "kota": "Medan",
+      "provinsi": "Sumatera Utara",
+      "alamat": "Jl. MT Haryono, Medan",
+      "lat": -3.6068,
+      "lng": 98.6746,
+      "jam_operasional": "09:00 - 22:00",
+      "kontak": "061-4159777",
+      "keterangan": "Swalayan grosir dan ritel"
+    }
+  ]
+}

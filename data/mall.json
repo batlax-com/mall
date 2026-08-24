@@ -1,0 +1,42 @@
+{
+  "kategori": "Mall",
+  "warna": "#E76F51",
+  "data": [
+    {
+      "id": "mall-001",
+      "nama": "Grand Indonesia",
+      "kota": "Jakarta Pusat",
+      "provinsi": "DKI Jakarta",
+      "alamat": "Jl. M.H. Thamrin No.1, Jakarta Pusat",
+      "lat": -6.1953,
+      "lng": 106.8203,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "021-23580000",
+      "keterangan": "Salah satu mall terbesar di Jakarta"
+    },
+    {
+      "id": "mall-002",
+      "nama": "Trans Studio Mall Bandung",
+      "kota": "Bandung",
+      "provinsi": "Jawa Barat",
+      "alamat": "Jl. Gatot Subroto No.289, Bandung",
+      "lat": -6.9256,
+      "lng": 107.6394,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "022-87242000",
+      "keterangan": "Mall terintegrasi dengan theme park"
+    },
+    {
+      "id": "mall-003",
+      "nama": "Tunjungan Plaza",
+      "kota": "Surabaya",
+      "provinsi": "Jawa Timur",
+      "alamat": "Jl. Basuki Rahmat No.8-12, Surabaya",
+      "lat": -7.2626,
+      "lng": 112.7383,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "031-5310000",
+      "keterangan": "Mall terbesar di Jawa Timur"
+    }
+  ]
+}

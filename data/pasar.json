@@ -1,0 +1,42 @@
+{
+  "kategori": "Pasar",
+  "warna": "#2A9D8F",
+  "data": [
+    {
+      "id": "pasar-001",
+      "nama": "Pasar Beringharjo",
+      "kota": "Yogyakarta",
+      "provinsi": "DI Yogyakarta",
+      "alamat": "Jl. Margo Mulyo No.16, Yogyakarta",
+      "lat": -7.7947,
+      "lng": 110.3648,
+      "jam_operasional": "08:00 - 21:00",
+      "kontak": "-",
+      "keterangan": "Pasar tradisional bersejarah"
+    },
+    {
+      "id": "pasar-002",
+      "nama": "Pasar Tanah Abang",
+      "kota": "Jakarta Pusat",
+      "provinsi": "DKI Jakarta",
+      "alamat": "Jl. Fachrudin No.1, Jakarta Pusat",
+      "lat": -6.1867,
+      "lng": 106.8129,
+      "jam_operasional": "08:00 - 18:00",
+      "kontak": "-",
+      "keterangan": "Pusat grosir tekstil terbesar di Asia Tenggara"
+    },
+    {
+      "id": "pasar-003",
+      "nama": "Pasar Klewer",
+      "kota": "Surakarta",
+      "provinsi": "Jawa Tengah",
+      "alamat": "Jl. Dr. Radjiman, Surakarta",
+      "lat": -7.5738,
+      "lng": 110.8261,
+      "jam_operasional": "08:00 - 17:00",
+      "kontak": "-",
+      "keterangan": "Pusat grosir batik terbesar"
+    }
+  ]
+}
