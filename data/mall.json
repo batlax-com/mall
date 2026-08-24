@@ -2199,42 +2199,6 @@
       "keterangan": "Pusat perbelanjaan ritel modern utama yang melayani kawasan Ibu Kota Provinsi Kalimantan Utara di Tanjung Selor"
     },
     {
-      "id": "mall-kaltara-001",
-      "nama": "GTM Tarakan (GTI Mall Tarakan)",
-      "kota": "Tarakan",
-      "provinsi": "Kalimantan Utara",
-      "alamat": "Jl. Yos Sudarso No. 8, Karang Balik, Kec. Tarakan Barat, Kota Tarakan",
-      "lat": 3.3082,
-      "lng": 117.5891,
-      "jam_operasional": "09:30 - 21:30",
-      "kontak": "0551-31888",
-      "keterangan": "Pusat perbelanjaan dan niaga ritel modern terbesar serta terpopuler yang menjadi pusat aktivitas ekonomi masyarakat Kota Tarakan"
-    },
-    {
-      "id": "mall-kaltara-002",
-      "nama": "Plaza Mulia Tarakan",
-      "kota": "Tarakan",
-      "provinsi": "Kalimantan Utara",
-      "alamat": "Jl. Jend. Sudirman, Sebengkok, Kec. Tarakan Tengah, Kota Tarakan",
-      "lat": 3.3015,
-      "lng": 117.5942,
-      "jam_operasional": "09:00 - 21:30",
-      "kontak": "0551-21555",
-      "keterangan": "Pusat belanja ritel fashion, perlengkapan rumah tangga, dan tempat belanja keluarga utama di kawasan Sebengkok"
-    },
-    {
-      "id": "mall-kaltara-003",
-      "nama": "Tanjung Selor Mall & Retail Center",
-      "kota": "Bulungan",
-      "provinsi": "Kalimantan Utara",
-      "alamat": "Jl. Kolonel Soetadji, Tanjung Selor Hilir, Kec. Tanjung Selor, Kab. Bulungan",
-      "lat": 2.8421,
-      "lng": 117.3648,
-      "jam_operasional": "09:30 - 21:30",
-      "kontak": "0552-21088",
-      "keterangan": "Pusat perbelanjaan ritel modern utama yang melayani kawasan Ibu Kota Provinsi Kalimantan Utara di Tanjung Selor"
-    },
-    {
       "id": "mall-sulut-001",
       "nama": "Manado Town Square (Mantos 1, 2, 3)",
       "kota": "Manado",
