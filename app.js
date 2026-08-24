@@ -7,8 +7,11 @@ const SOURCES = [
 
 const map = L.map('map', { zoomControl: true }).setView([-2.5, 118], 5);
 
-L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-  attribution: '&copy; OpenStreetMap contributors',
+// ============================================================
+// UBAH KE PETA SATELIT ESRI
+// ============================================================
+L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+  attribution: '&copy; <a href="https://www.esri.com/">Esri</a> | Source: Esri, DigitalGlobe, GeoEye, Earthstar Geographics, CNES/Airbus DS, USDA, USGS, AeroGRID, IGN, and the GIS User Community',
   maxZoom: 19
 }).addTo(map);
 
