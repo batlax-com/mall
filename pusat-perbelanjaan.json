@@ -1,0 +1,42 @@
+{
+  "kategori": "Pusat Perbelanjaan",
+  "warna": "#264653",
+  "data": [
+    {
+      "id": "pp-001",
+      "nama": "ITC Kuningan",
+      "kota": "Jakarta Selatan",
+      "provinsi": "DKI Jakarta",
+      "alamat": "Jl. Prof. Dr. Satrio, Jakarta Selatan",
+      "lat": -6.2247,
+      "lng": 106.8306,
+      "jam_operasional": "10:00 - 21:00",
+      "kontak": "021-30020500",
+      "keterangan": "Pusat perbelanjaan grosir elektronik dan fashion"
+    },
+    {
+      "id": "pp-002",
+      "nama": "BEC (Bandung Electronic Center)",
+      "kota": "Bandung",
+      "provinsi": "Jawa Barat",
+      "alamat": "Jl. Purnawarman No.13-15, Bandung",
+      "lat": -6.9110,
+      "lng": 107.6069,
+      "jam_operasional": "10:00 - 20:00",
+      "kontak": "022-4207777",
+      "keterangan": "Pusat perbelanjaan elektronik"
+    },
+    {
+      "id": "pp-003",
+      "nama": "Mangga Dua Square",
+      "kota": "Jakarta Utara",
+      "provinsi": "DKI Jakarta",
+      "alamat": "Jl. Gunung Sahari Raya No.1, Jakarta Utara",
+      "lat": -6.1352,
+      "lng": 106.8271,
+      "jam_operasional": "10:00 - 21:00",
+      "kontak": "021-6128888",
+      "keterangan": "Pusat grosir dan perbelanjaan multi-produk"
+    }
+  ]
+}

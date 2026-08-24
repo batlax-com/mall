@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Peta Pusat Perbelanjaan Indonesia</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.css" />
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.Default.css" />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="brand">
+    <span class="brand-mark">PETA</span>
+    <span class="brand-sub">Pusat Perbelanjaan Indonesia</span>
+  </div>
+  <button id="menuToggle" class="menu-toggle" aria-label="Buka panel filter">☰</button>
+</header>
+
+<div class="layout">
+
+  <aside id="sidebar" class="sidebar">
+    <div class="sidebar-section">
+      <h2>Cari Lokasi</h2>
+      <input type="text" id="searchInput" placeholder="Cari nama, kota, atau provinsi...">
+    </div>
+
+    <div class="sidebar-section">
+      <h2>Kategori</h2>
+      <div class="filter-list" id="filterList">
+        <label class="filter-item" data-kat="mall">
+          <input type="checkbox" checked data-source="data/mall.json">
+          <span class="dot dot-mall"></span> Mall
+          <span class="count" id="count-mall">0</span>
+        </label>
+        <label class="filter-item" data-kat="pasar">
+          <input type="checkbox" checked data-source="data/pasar.json">
+          <span class="dot dot-pasar"></span> Pasar
+          <span class="count" id="count-pasar">0</span>
+        </label>
+        <label class="filter-item" data-kat="swalayan">
+          <input type="checkbox" checked data-source="data/swalayan.json">
+          <span class="dot dot-swalayan"></span> Swalayan
+          <span class="count" id="count-swalayan">0</span>
+        </label>
+        <label class="filter-item" data-kat="pusat-perbelanjaan">
+          <input type="checkbox" checked data-source="data/pusat-perbelanjaan.json">
+          <span class="dot dot-pusat-perbelanjaan"></span> Pusat Perbelanjaan
+          <span class="count" id="count-pusat-perbelanjaan">0</span>
+        </label>
+      </div>
+    </div>
+
+    <div class="sidebar-section">
+      <h2>Provinsi</h2>
+      <select id="provinsiFilter">
+        <option value="">Semua Provinsi</option>
+      </select>
+    </div>
+
+    <div class="sidebar-section result-section">
+      <h2>Hasil (<span id="resultCount">0</span>)</h2>
+      <div id="resultList" class="result-list"></div>
+    </div>
+
+    <footer class="sidebar-footer">
+      Data dikelola melalui berkas JSON terpisah per kategori di folder <code>/data</code>.
+    </footer>
+  </aside>
+
+  <main class="map-wrap">
+    <div id="map"></div>
+  </main>
+
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/leaflet.markercluster.min.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

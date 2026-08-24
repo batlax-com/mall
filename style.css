@@ -1,0 +1,194 @@
+:root{
+  --ink:#1B2426;
+  --paper:#F6F5F1;
+  --panel:#FFFFFF;
+  --line:#E3E1D9;
+  --accent-mall:#E76F51;
+  --accent-pasar:#2A9D8F;
+  --accent-swalayan:#E9C46A;
+  --accent-pp:#264653;
+  --brand:#1B2426;
+  --radius:10px;
+}
+
+*{box-sizing:border-box;margin:0;padding:0;}
+
+body{
+  font-family:'Inter',system-ui,sans-serif;
+  color:var(--ink);
+  background:var(--paper);
+  height:100vh;
+  overflow:hidden;
+}
+
+.topbar{
+  height:56px;
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  padding:0 20px;
+  background:var(--brand);
+  color:#fff;
+  position:relative;
+  z-index:1000;
+}
+
+.brand{display:flex;align-items:baseline;gap:10px;}
+.brand-mark{
+  font-family:'Space Grotesk',sans-serif;
+  font-weight:700;
+  font-size:1.15rem;
+  letter-spacing:0.04em;
+}
+.brand-sub{font-size:0.8rem;opacity:0.75;font-weight:400;}
+
+.menu-toggle{
+  display:none;
+  background:none;
+  border:none;
+  color:#fff;
+  font-size:1.3rem;
+  cursor:pointer;
+}
+
+.layout{
+  display:flex;
+  height:calc(100vh - 56px);
+}
+
+.sidebar{
+  width:320px;
+  min-width:320px;
+  background:var(--panel);
+  border-right:1px solid var(--line);
+  overflow-y:auto;
+  display:flex;
+  flex-direction:column;
+}
+
+.sidebar-section{
+  padding:16px 18px;
+  border-bottom:1px solid var(--line);
+}
+
+.sidebar-section h2{
+  font-family:'Space Grotesk',sans-serif;
+  font-size:0.72rem;
+  text-transform:uppercase;
+  letter-spacing:0.08em;
+  color:#6b7373;
+  margin-bottom:10px;
+}
+
+#searchInput, #provinsiFilter{
+  width:100%;
+  padding:9px 12px;
+  border:1px solid var(--line);
+  border-radius:var(--radius);
+  font-size:0.9rem;
+  font-family:inherit;
+  background:var(--paper);
+}
+
+#searchInput:focus, #provinsiFilter:focus{
+  outline:2px solid var(--accent-pasar);
+  outline-offset:1px;
+}
+
+.filter-list{display:flex;flex-direction:column;gap:8px;}
+
+.filter-item{
+  display:flex;
+  align-items:center;
+  gap:8px;
+  font-size:0.88rem;
+  cursor:pointer;
+  padding:6px 8px;
+  border-radius:8px;
+}
+.filter-item:hover{background:var(--paper);}
+
+.filter-item input{cursor:pointer;}
+
+.dot{
+  width:10px;height:10px;border-radius:50%;display:inline-block;flex-shrink:0;
+}
+.dot-mall{background:var(--accent-mall);}
+.dot-pasar{background:var(--accent-pasar);}
+.dot-swalayan{background:var(--accent-swalayan);}
+.dot-pusat-perbelanjaan{background:var(--accent-pp);}
+
+.count{
+  margin-left:auto;
+  font-size:0.75rem;
+  color:#8a908f;
+  font-variant-numeric:tabular-nums;
+}
+
+.result-section{flex:1;display:flex;flex-direction:column;overflow:hidden;}
+.result-list{overflow-y:auto;flex:1;display:flex;flex-direction:column;gap:8px;margin-top:6px;}
+
+.result-card{
+  border:1px solid var(--line);
+  border-radius:var(--radius);
+  padding:10px 12px;
+  cursor:pointer;
+  transition:border-color 0.15s;
+}
+.result-card:hover{border-color:var(--accent-pasar);}
+.result-card .rc-name{font-weight:600;font-size:0.87rem;}
+.result-card .rc-loc{font-size:0.78rem;color:#6b7373;margin-top:2px;}
+.result-card .rc-kat{
+  display:inline-block;
+  font-size:0.68rem;
+  text-transform:uppercase;
+  letter-spacing:0.04em;
+  margin-top:6px;
+  padding:2px 7px;
+  border-radius:20px;
+  color:#fff;
+}
+
+.sidebar-footer{
+  padding:14px 18px;
+  font-size:0.72rem;
+  color:#8a908f;
+  line-height:1.4;
+}
+.sidebar-footer code{
+  background:var(--paper);
+  padding:1px 5px;
+  border-radius:4px;
+}
+
+.map-wrap{flex:1;position:relative;}
+#map{width:100%;height:100%;}
+
+.leaflet-popup-content{font-family:'Inter',sans-serif;}
+.popup-title{font-family:'Space Grotesk',sans-serif;font-weight:700;font-size:1rem;margin-bottom:4px;}
+.popup-row{font-size:0.83rem;margin-top:3px;color:#3a4141;}
+.popup-tag{
+  display:inline-block;
+  font-size:0.68rem;
+  text-transform:uppercase;
+  color:#fff;
+  padding:2px 8px;
+  border-radius:20px;
+  margin-bottom:6px;
+}
+
+@media (max-width: 780px){
+  .menu-toggle{display:block;}
+  .sidebar{
+    position:fixed;
+    top:56px;left:0;
+    width:85%;
+    max-width:340px;
+    height:calc(100vh - 56px);
+    transform:translateX(-100%);
+    transition:transform 0.25s ease;
+    z-index:900;
+    box-shadow:2px 0 12px rgba(0,0,0,0.15);
+  }
+  .sidebar.open{transform:translateX(0);}
+}
