@@ -1,17 +1,15 @@
-const SOURCES = [
-  { kat: "mall", label: "Mall", color: "#E76F51", file: "data/mall.json" },
-  { kat: "pasar", label: "Pasar", color: "#2A9D8F", file: "data/pasar.json" },
-  { kat: "swalayan", label: "Swalayan", color: "#E9C46A", file: "data/swalayan.json" },
-  { kat: "pusat-perbelanjaan", label: "Pusat Perbelanjaan", color: "#264653", file: "data/pusat-perbelanjaan.json" }
+// Daftar kategori: kunci folder di /data, label tampilan, warna marker
+const KATEGORI = [
+  { kat: "mall", label: "Mall", color: "#E76F51" },
+  { kat: "pasar", label: "Pasar", color: "#2A9D8F" },
+  { kat: "swalayan", label: "Swalayan", color: "#E9C46A" },
+  { kat: "pusat-perbelanjaan", label: "Pusat Perbelanjaan", color: "#264653" }
 ];
 
 const map = L.map('map', { zoomControl: true }).setView([-2.5, 118], 5);
 
-// ============================================================
-// UBAH KE PETA SATELIT ESRI
-// ============================================================
-L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
-  attribution: '&copy; <a href="https://www.esri.com/">Esri</a> | Source: Esri, DigitalGlobe, GeoEye, Earthstar Geographics, CNES/Airbus DS, USDA, USGS, AeroGRID, IGN, and the GIS User Community',
+L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  attribution: '&copy; OpenStreetMap contributors',
   maxZoom: 19
 }).addTo(map);
 
@@ -29,36 +27,6 @@ function makeIcon(color) {
   });
 }
 
-async function loadSource(src) {
-  try {
-    const res = await fetch(src.file);
-    const json = await res.json();
-    const items = json.data || [];
-
-    const cluster = L.markerClusterGroup({ maxClusterRadius: 50 });
-    clusterGroups[src.kat] = cluster;
-
-    items.forEach(item => {
-      item._kat = src.kat;
-      item._label = src.label;
-      item._color = src.color;
-      provinsiSet.add(item.provinsi);
-      allItems.push(item);
-
-      const marker = L.marker([item.lat, item.lng], { icon: makeIcon(src.color) });
-      marker.bindPopup(buildPopup(item));
-      marker._itemRef = item;
-      cluster.addLayer(marker);
-    });
-
-    map.addLayer(cluster);
-    document.getElementById('count-' + src.kat).textContent = items.length;
-  } catch (e) {
-    console.error('Gagal memuat', src.file, e);
-    document.getElementById('count-' + src.kat).textContent = '!';
-  }
-}
-
 function buildPopup(item) {
   return `
     <div class="popup-tag" style="background:${item._color}">${item._label}</div>
@@ -69,6 +37,49 @@ function buildPopup(item) {
     <div class="popup-row">☎️ ${item.kontak || '-'}</div>
     ${item.keterangan ? `<div class="popup-row">${item.keterangan}</div>` : ''}
   `;
+}
+
+// Memuat satu kategori: baca _index.json untuk tahu file provinsi mana saja
+// yang berisi data, lalu ambil semua file itu dan gabungkan.
+async function loadKategori(src) {
+  const cluster = L.markerClusterGroup({ maxClusterRadius: 50 });
+  clusterGroups[src.kat] = cluster;
+  map.addLayer(cluster);
+
+  let total = 0;
+  try {
+    const idxRes = await fetch(`data/${src.kat}/_index.json`);
+    const idx = await idxRes.json();
+    const files = idx.files || [];
+
+    await Promise.all(files.map(async (entry) => {
+      try {
+        const res = await fetch(`data/${src.kat}/${entry.file}`);
+        const json = await res.json();
+        const items = json.data || [];
+
+        items.forEach(item => {
+          item._kat = src.kat;
+          item._label = src.label;
+          item._color = src.color;
+          if (item.provinsi) provinsiSet.add(item.provinsi);
+          allItems.push(item);
+
+          const marker = L.marker([item.lat, item.lng], { icon: makeIcon(src.color) });
+          marker.bindPopup(buildPopup(item));
+          marker._itemRef = item;
+          cluster.addLayer(marker);
+        });
+        total += items.length;
+      } catch (e) {
+        console.error(`Gagal memuat data/${src.kat}/${entry.file}`, e);
+      }
+    }));
+  } catch (e) {
+    console.error(`Gagal memuat data/${src.kat}/_index.json`, e);
+  }
+
+  document.getElementById('count-' + src.kat).textContent = total;
 }
 
 function populateProvinsiFilter() {
@@ -121,7 +132,7 @@ function applyFilters() {
     .filter(cb => cb.checked)
     .map(cb => cb.closest('.filter-item').dataset.kat);
 
-  SOURCES.forEach(src => {
+  KATEGORI.forEach(src => {
     const cluster = clusterGroups[src.kat];
     if (!cluster) return;
     if (activeKats.includes(src.kat)) {
@@ -153,7 +164,9 @@ document.getElementById('menuToggle').addEventListener('click', () => {
 });
 
 (async function init() {
-  await Promise.all(SOURCES.map(loadSource));
+  const badge = document.getElementById('loadingBadge');
+  await Promise.all(KATEGORI.map(loadKategori));
   populateProvinsiFilter();
   applyFilters();
+  if (badge) badge.style.display = 'none';
 })();
