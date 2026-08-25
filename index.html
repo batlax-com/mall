@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="id">
 <head>
-<link rel="icon" href="/favicon.ico" type="image/x-icon">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Peta Pusat Perbelanjaan Indonesia</title>
@@ -34,22 +33,22 @@
       <h2>Kategori</h2>
       <div class="filter-list" id="filterList">
         <label class="filter-item" data-kat="mall">
-          <input type="checkbox" checked data-source="data/mall.json">
+          <input type="checkbox" checked>
           <span class="dot dot-mall"></span> Mall
           <span class="count" id="count-mall">0</span>
         </label>
         <label class="filter-item" data-kat="pasar">
-          <input type="checkbox" checked data-source="data/pasar.json">
+          <input type="checkbox" checked>
           <span class="dot dot-pasar"></span> Pasar
           <span class="count" id="count-pasar">0</span>
         </label>
         <label class="filter-item" data-kat="swalayan">
-          <input type="checkbox" checked data-source="data/swalayan.json">
+          <input type="checkbox" checked>
           <span class="dot dot-swalayan"></span> Swalayan
           <span class="count" id="count-swalayan">0</span>
         </label>
         <label class="filter-item" data-kat="pusat-perbelanjaan">
-          <input type="checkbox" checked data-source="data/pusat-perbelanjaan.json">
+          <input type="checkbox" checked>
           <span class="dot dot-pusat-perbelanjaan"></span> Pusat Perbelanjaan
           <span class="count" id="count-pusat-perbelanjaan">0</span>
         </label>
@@ -69,12 +68,13 @@
     </div>
 
     <footer class="sidebar-footer">
-      Data dikelola oleh Lelemuku.com
+      Data disusun per provinsi di folder <code>/data/&lt;kategori&gt;/&lt;provinsi&gt;.json</code>.
     </footer>
   </aside>
 
   <main class="map-wrap">
     <div id="map"></div>
+    <div id="loadingBadge" class="loading-badge">Memuat data...</div>
   </main>
 
 </div>
