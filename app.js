@@ -8,8 +8,14 @@ const KATEGORI = [
 
 const map = L.map('map', { zoomControl: true }).setView([-2.5, 118], 5);
 
-L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-  attribution: '&copy; OpenStreetMap contributors',
+L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+  attribution: 'Tiles &copy; Esri &mdash; Source: Esri, Maxar, Earthstar Geographics, and the GIS User Community',
+  maxZoom: 19
+}).addTo(map);
+
+// Layer label kota/jalan transparan di atas citra satelit, agar nama tempat tetap terbaca
+L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/Reference/World_Boundaries_and_Places/MapServer/tile/{z}/{y}/{x}', {
+  attribution: 'Labels &copy; Esri',
   maxZoom: 19
 }).addTo(map);
 
