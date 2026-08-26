@@ -1,0 +1,18 @@
+{
+  "kategori": "Swalayan",
+  "provinsi": "Sumatera Utara",
+  "data": [
+    {
+      "id": "swalayan-003",
+      "nama": "Lotte Mart Medan",
+      "kota": "Medan",
+      "alamat": "Jl. MT Haryono, Medan",
+      "lat": -3.6068,
+      "lng": 98.6746,
+      "jam_operasional": "09:00 - 22:00",
+      "kontak": "061-4159777",
+      "keterangan": "Swalayan grosir dan ritel",
+      "provinsi": "Sumatera Utara"
+    }
+  ]
+}

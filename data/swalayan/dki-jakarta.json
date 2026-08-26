@@ -1,0 +1,18 @@
+{
+  "kategori": "Swalayan",
+  "provinsi": "DKI Jakarta",
+  "data": [
+    {
+      "id": "swalayan-001",
+      "nama": "Transmart Carrefour Cempaka Putih",
+      "kota": "Jakarta Pusat",
+      "alamat": "Jl. Letjen Suprapto, Jakarta Pusat",
+      "lat": -6.1795,
+      "lng": 106.8686,
+      "jam_operasional": "09:00 - 22:00",
+      "kontak": "021-4213700",
+      "keterangan": "Hypermarket dan pusat perbelanjaan keluarga",
+      "provinsi": "DKI Jakarta"
+    }
+  ]
+}

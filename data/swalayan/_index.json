@@ -1,0 +1,16 @@
+{
+  "files": [
+    {
+      "file": "sumut.json",
+      "provinsi": "Sumatera Utara"
+    },
+    {
+      "file": "dki-jakarta.json",
+      "provinsi": "DKI Jakarta"
+    },
+    {
+      "file": "bali.json",
+      "provinsi": "Bali"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "kategori": "Swalayan",
+  "provinsi": "Bali",
+  "data": [
+    {
+      "id": "swalayan-002",
+      "nama": "Hypermart Sunset Road",
+      "kota": "Denpasar",
+      "alamat": "Jl. Sunset Road, Kuta, Badung",
+      "lat": -8.7118,
+      "lng": 115.1698,
+      "jam_operasional": "09:00 - 22:00",
+      "kontak": "0361-8465888",
+      "keterangan": "Hypermarket kebutuhan sehari-hari",
+      "provinsi": "Bali"
+    }
+  ]
+}
