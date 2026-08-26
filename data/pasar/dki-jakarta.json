@@ -1,0 +1,18 @@
+{
+  "kategori": "Pasar",
+  "provinsi": "DKI Jakarta",
+  "data": [
+    {
+      "id": "pasar-002",
+      "nama": "Pasar Tanah Abang",
+      "kota": "Jakarta Pusat",
+      "alamat": "Jl. Fachrudin No.1, Jakarta Pusat",
+      "lat": -6.1867,
+      "lng": 106.8129,
+      "jam_operasional": "08:00 - 18:00",
+      "kontak": "-",
+      "keterangan": "Pusat grosir tekstil terbesar di Asia Tenggara",
+      "provinsi": "DKI Jakarta"
+    }
+  ]
+}

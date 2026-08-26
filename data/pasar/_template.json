@@ -1,0 +1,18 @@
+{
+  "kategori": "Pasar",
+  "provinsi": "Nama Provinsi",
+  "data": [
+    {
+      "id": "pasar-contoh-001",
+      "nama": "Nama Lokasi",
+      "kota": "Nama Kota",
+      "provinsi": "Nama Provinsi",
+      "alamat": "Alamat lengkap",
+      "lat": 0.0,
+      "lng": 0.0,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "-",
+      "keterangan": "Deskripsi singkat (opsional)"
+    }
+  ]
+}

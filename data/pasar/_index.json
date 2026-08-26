@@ -1,0 +1,16 @@
+{
+  "files": [
+    {
+      "file": "dki-jakarta.json",
+      "provinsi": "DKI Jakarta"
+    },
+    {
+      "file": "jateng.json",
+      "provinsi": "Jawa Tengah"
+    },
+    {
+      "file": "diy.json",
+      "provinsi": "DI Yogyakarta"
+    }
+  ]
+}

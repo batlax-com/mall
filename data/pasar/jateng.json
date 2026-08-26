@@ -1,0 +1,18 @@
+{
+  "kategori": "Pasar",
+  "provinsi": "Jawa Tengah",
+  "data": [
+    {
+      "id": "pasar-003",
+      "nama": "Pasar Klewer",
+      "kota": "Surakarta",
+      "alamat": "Jl. Dr. Radjiman, Surakarta",
+      "lat": -7.5738,
+      "lng": 110.8261,
+      "jam_operasional": "08:00 - 17:00",
+      "kontak": "-",
+      "keterangan": "Pusat grosir batik terbesar",
+      "provinsi": "Jawa Tengah"
+    }
+  ]
+}
