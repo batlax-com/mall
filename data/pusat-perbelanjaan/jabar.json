@@ -1,0 +1,18 @@
+{
+  "kategori": "Pusat Perbelanjaan",
+  "provinsi": "Jawa Barat",
+  "data": [
+    {
+      "id": "pp-002",
+      "nama": "BEC (Bandung Electronic Center)",
+      "kota": "Bandung",
+      "alamat": "Jl. Purnawarman No.13-15, Bandung",
+      "lat": -6.911,
+      "lng": 107.6069,
+      "jam_operasional": "10:00 - 20:00",
+      "kontak": "022-4207777",
+      "keterangan": "Pusat perbelanjaan elektronik",
+      "provinsi": "Jawa Barat"
+    }
+  ]
+}

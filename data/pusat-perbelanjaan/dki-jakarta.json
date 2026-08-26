@@ -1,0 +1,30 @@
+{
+  "kategori": "Pusat Perbelanjaan",
+  "provinsi": "DKI Jakarta",
+  "data": [
+    {
+      "id": "pp-001",
+      "nama": "ITC Kuningan",
+      "kota": "Jakarta Selatan",
+      "alamat": "Jl. Prof. Dr. Satrio, Jakarta Selatan",
+      "lat": -6.2247,
+      "lng": 106.8306,
+      "jam_operasional": "10:00 - 21:00",
+      "kontak": "021-30020500",
+      "keterangan": "Pusat perbelanjaan grosir elektronik dan fashion",
+      "provinsi": "DKI Jakarta"
+    },
+    {
+      "id": "pp-003",
+      "nama": "Mangga Dua Square",
+      "kota": "Jakarta Utara",
+      "alamat": "Jl. Gunung Sahari Raya No.1, Jakarta Utara",
+      "lat": -6.1352,
+      "lng": 106.8271,
+      "jam_operasional": "10:00 - 21:00",
+      "kontak": "021-6128888",
+      "keterangan": "Pusat grosir dan perbelanjaan multi-produk",
+      "provinsi": "DKI Jakarta"
+    }
+  ]
+}

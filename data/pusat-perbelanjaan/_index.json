@@ -1,0 +1,12 @@
+{
+  "files": [
+    {
+      "file": "dki-jakarta.json",
+      "provinsi": "DKI Jakarta"
+    },
+    {
+      "file": "jabar.json",
+      "provinsi": "Jawa Barat"
+    }
+  ]
+}
