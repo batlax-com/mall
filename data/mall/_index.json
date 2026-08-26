@@ -1,0 +1,152 @@
+{
+  "files": [
+    {
+      "file": "aceh.json",
+      "provinsi": "Aceh"
+    },
+    {
+      "file": "bali.json",
+      "provinsi": "Bali"
+    },
+    {
+      "file": "banten.json",
+      "provinsi": "Banten"
+    },
+    {
+      "file": "bengkulu.json",
+      "provinsi": "Bengkulu"
+    },
+    {
+      "file": "dki-jakarta.json",
+      "provinsi": "DKI Jakarta"
+    },
+    {
+      "file": "gorontalo.json",
+      "provinsi": "Gorontalo"
+    },
+    {
+      "file": "jambi.json",
+      "provinsi": "Jambi"
+    },
+    {
+      "file": "jabar.json",
+      "provinsi": "Jawa Barat"
+    },
+    {
+      "file": "jateng.json",
+      "provinsi": "Jawa Tengah"
+    },
+    {
+      "file": "jatim.json",
+      "provinsi": "Jawa Timur"
+    },
+    {
+      "file": "kalbar.json",
+      "provinsi": "Kalimantan Barat"
+    },
+    {
+      "file": "kalsel.json",
+      "provinsi": "Kalimantan Selatan"
+    },
+    {
+      "file": "kalteng.json",
+      "provinsi": "Kalimantan Tengah"
+    },
+    {
+      "file": "kaltim.json",
+      "provinsi": "Kalimantan Timur"
+    },
+    {
+      "file": "kaltara.json",
+      "provinsi": "Kalimantan Utara"
+    },
+    {
+      "file": "babel.json",
+      "provinsi": "Kepulauan Bangka Belitung"
+    },
+    {
+      "file": "kepri.json",
+      "provinsi": "Kepulauan Riau"
+    },
+    {
+      "file": "lampung.json",
+      "provinsi": "Lampung"
+    },
+    {
+      "file": "maluku.json",
+      "provinsi": "Maluku"
+    },
+    {
+      "file": "malut.json",
+      "provinsi": "Maluku Utara"
+    },
+    {
+      "file": "ntb.json",
+      "provinsi": "Nusa Tenggara Barat"
+    },
+    {
+      "file": "ntt.json",
+      "provinsi": "Nusa Tenggara Timur"
+    },
+    {
+      "file": "papua.json",
+      "provinsi": "Papua"
+    },
+    {
+      "file": "papua-barat.json",
+      "provinsi": "Papua Barat"
+    },
+    {
+      "file": "papua-barat-daya.json",
+      "provinsi": "Papua Barat Daya"
+    },
+    {
+      "file": "papua-pegunungan.json",
+      "provinsi": "Papua Pegunungan"
+    },
+    {
+      "file": "papua-selatan.json",
+      "provinsi": "Papua Selatan"
+    },
+    {
+      "file": "papua-tengah.json",
+      "provinsi": "Papua Tengah"
+    },
+    {
+      "file": "riau.json",
+      "provinsi": "Riau"
+    },
+    {
+      "file": "sulbar.json",
+      "provinsi": "Sulawesi Barat"
+    },
+    {
+      "file": "sulsel.json",
+      "provinsi": "Sulawesi Selatan"
+    },
+    {
+      "file": "sulteng.json",
+      "provinsi": "Sulawesi Tengah"
+    },
+    {
+      "file": "sultra.json",
+      "provinsi": "Sulawesi Tenggara"
+    },
+    {
+      "file": "sulut.json",
+      "provinsi": "Sulawesi Utara"
+    },
+    {
+      "file": "sumbar.json",
+      "provinsi": "Sumatera Barat"
+    },
+    {
+      "file": "sumsel.json",
+      "provinsi": "Sumatera Selatan"
+    },
+    {
+      "file": "sumut.json",
+      "provinsi": "Sumatera Utara"
+    }
+  ]
+}

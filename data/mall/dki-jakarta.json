@@ -1,0 +1,102 @@
+{
+  "kategori": "Mall",
+  "provinsi": "DKI Jakarta",
+  "data": [
+    {
+      "id": "mall-001",
+      "nama": "Grand Indonesia",
+      "kota": "Jakarta Pusat",
+      "provinsi": "DKI Jakarta",
+      "alamat": "Jl. M.H. Thamrin No.1, Jakarta Pusat",
+      "lat": -6.1953,
+      "lng": 106.8203,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "021-23580000",
+      "keterangan": "Salah satu mall terbesar di Jakarta"
+    },
+    {
+      "id": "mall-002",
+      "nama": "Plaza Indonesia",
+      "kota": "Jakarta Pusat",
+      "provinsi": "DKI Jakarta",
+      "alamat": "Jl. M.H. Thamrin No.28-30, Jakarta Pusat",
+      "lat": -6.1931,
+      "lng": 106.8223,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "021-29923333",
+      "keterangan": "Mall mewah di kawasan Bundaran HI"
+    },
+    {
+      "id": "mall-003",
+      "nama": "Pacific Place",
+      "kota": "Jakarta Selatan",
+      "provinsi": "DKI Jakarta",
+      "alamat": "Jl. Jend. Sudirman No.Kav 52-53, Jakarta Selatan",
+      "lat": -6.2265,
+      "lng": 106.8063,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "021-57973999",
+      "keterangan": "Mall premium di kawasan SCBD"
+    },
+    {
+      "id": "mall-004",
+      "nama": "Central Park",
+      "kota": "Jakarta Barat",
+      "provinsi": "DKI Jakarta",
+      "alamat": "Jl. Letjen S. Parman No.28, Jakarta Barat",
+      "lat": -6.168,
+      "lng": 106.7936,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "021-56983666",
+      "keterangan": "Mall dengan taman kota dan waterfront"
+    },
+    {
+      "id": "mall-005",
+      "nama": "Senayan City",
+      "kota": "Jakarta Selatan",
+      "provinsi": "DKI Jakarta",
+      "alamat": "Jl. Asia Afrika No.19, Jakarta Selatan",
+      "lat": -6.225,
+      "lng": 106.7996,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "021-72787000",
+      "keterangan": "Mall di dekat kompleks GBK"
+    },
+    {
+      "id": "mall-006",
+      "nama": "Pondok Indah Mall",
+      "kota": "Jakarta Selatan",
+      "provinsi": "DKI Jakarta",
+      "alamat": "Jl. Metro Pondok Indah, Jakarta Selatan",
+      "lat": -6.2693,
+      "lng": 106.7866,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "021-7505111",
+      "keterangan": "Mall terkemuka di kawasan Pondok Indah"
+    },
+    {
+      "id": "mall-007",
+      "nama": "Kota Kasablanka",
+      "kota": "Jakarta Selatan",
+      "provinsi": "DKI Jakarta",
+      "alamat": "Jl. Casablanca No.88, Jakarta Selatan",
+      "lat": -6.2385,
+      "lng": 106.8373,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "021-29465888",
+      "keterangan": "Mall dengan konsep pet-friendly"
+    },
+    {
+      "id": "mall-008",
+      "nama": "Mall of Indonesia",
+      "kota": "Jakarta Utara",
+      "provinsi": "DKI Jakarta",
+      "alamat": "Jl. Raya Boulevard Barat, Kelapa Gading, Jakarta Utara",
+      "lat": -6.149,
+      "lng": 106.9095,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "021-45868888",
+      "keterangan": "Mall terbesar di Kelapa Gading"
+    }
+  ]
+}

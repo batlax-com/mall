@@ -1,0 +1,66 @@
+{
+  "kategori": "Mall",
+  "provinsi": "Kalimantan Barat",
+  "data": [
+    {
+      "id": "mall-kalbar-001",
+      "nama": "Gaia Bumi Raya City",
+      "kota": "Kubu Raya",
+      "provinsi": "Kalimantan Barat",
+      "alamat": "Jl. Arteri Supadio (A. Yani II), Sungai Raya, Kec. Sungai Raya, Kab. Kubu Raya",
+      "lat": -0.0768,
+      "lng": 109.3802,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0561-8181888",
+      "keterangan": "Mall keluarga terbesar dan paling modern berkonsep eco-lifestyle dengan area taman terbuka dan outdoor amphitheater"
+    },
+    {
+      "id": "mall-kalbar-002",
+      "nama": "Ayani Megamal Pontianak",
+      "kota": "Pontianak",
+      "provinsi": "Kalimantan Barat",
+      "alamat": "Jl. Jend. Ahmad Yani No. 4, Parit Tokaya, Kec. Pontianak Selatan, Kota Pontianak",
+      "lat": -0.0465,
+      "lng": 109.3488,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0561-762888",
+      "keterangan": "Pusat perbelanjaan legendaris terbesar dan paling rame di jantung Kota Pontianak"
+    },
+    {
+      "id": "mall-kalbar-003",
+      "nama": "Transmart Pontianak",
+      "kota": "Kubu Raya",
+      "provinsi": "Kalimantan Barat",
+      "alamat": "Jl. Arteri Supadio, Sungai Raya, Kec. Sungai Raya, Kab. Kubu Raya",
+      "lat": -0.0722,
+      "lng": 109.3725,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0561-8170888",
+      "keterangan": "Pusat belanja modern satu atap yang dilengkapi hypermarket dan wahana rekreasi indoor Trans Studio Mini"
+    },
+    {
+      "id": "mall-kalbar-004",
+      "nama": "Mall Matahari Pontianak",
+      "kota": "Pontianak",
+      "provinsi": "Kalimantan Barat",
+      "alamat": "Jl. Jend. Urip Sumoharjo No. 1, Tengah, Kec. Pontianak Kota, Kota Pontianak",
+      "lat": -0.0289,
+      "lng": 109.3362,
+      "jam_operasional": "09:30 - 21:30",
+      "kontak": "0561-738999",
+      "keterangan": "Pusat perbelanjaan ritel fashion dan gaya hidup legendaris di area pusat perdagangan Kota Pontianak"
+    },
+    {
+      "id": "mall-kalbar-005",
+      "nama": "Khatulistiwa Plaza",
+      "kota": "Pontianak",
+      "provinsi": "Kalimantan Barat",
+      "alamat": "Jl. Diponegoro No. 151, Darat Sekip, Kec. Pontianak Kota, Kota Pontianak",
+      "lat": -0.0268,
+      "lng": 109.3385,
+      "jam_operasional": "09:00 - 21:00",
+      "kontak": "0561-736222",
+      "keterangan": "Pusat perbelanjaan dan niaga favorit untuk pencarian produk elektronik, gadget, dan ritel terjangkau"
+    }
+  ]
+}

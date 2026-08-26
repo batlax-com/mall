@@ -1,0 +1,42 @@
+{
+  "kategori": "Mall",
+  "provinsi": "Papua Selatan",
+  "data": [
+    {
+      "id": "mall-pasel-001",
+      "nama": "Saga Supermarket & Shopping Center Merauke",
+      "kota": "Merauke",
+      "provinsi": "Papua Selatan",
+      "alamat": "Jl. Rayon Mandala, Bambu Pemali, Kec. Merauke, Kab. Merauke",
+      "lat": -8.4962,
+      "lng": 140.4015,
+      "jam_operasional": "09:00 - 21:30",
+      "kontak": "0971-321888",
+      "keterangan": "Pusat perbelanjaan ritel modern dan department store terbesar yang menjadi tujuan belanja utama masyarakat di Merauke"
+    },
+    {
+      "id": "mall-pasel-002",
+      "nama": "Irian Jaya Shopping Center Merauke",
+      "kota": "Merauke",
+      "provinsi": "Papua Selatan",
+      "alamat": "Jl. Ahmad Yani, Mandala, Kec. Merauke, Kab. Merauke",
+      "lat": -8.4918,
+      "lng": 140.3982,
+      "jam_operasional": "08:30 - 21:00",
+      "kontak": "0971-321555",
+      "keterangan": "Pusat perdagangan ritel fashion, kebutuhan rumah tangga, dan barang harian di kawasan pusat Kota Merauke"
+    },
+    {
+      "id": "mall-pasel-003",
+      "nama": "Gelael Supermarket Merauke",
+      "kota": "Merauke",
+      "provinsi": "Papua Selatan",
+      "alamat": "Jl. Raya Maro, Karang Indah, Kec. Merauke, Kab. Merauke",
+      "lat": -8.4985,
+      "lng": 140.4052,
+      "jam_operasional": "09:00 - 21:30",
+      "kontak": "0971-322111",
+      "keterangan": "Pusat belanja kebutuhan harian dan ritel gaya hidup favorit masyarakat di Ibu Kota Provinsi Papua Selatan"
+    }
+  ]
+}

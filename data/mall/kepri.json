@@ -1,0 +1,66 @@
+{
+  "kategori": "Mall",
+  "provinsi": "Kepulauan Riau",
+  "data": [
+    {
+      "id": "mall-kepri-001",
+      "nama": "Grand Batam Mall",
+      "kota": "Batam",
+      "provinsi": "Kepulauan Riau",
+      "alamat": "Jl. Pembangunan, Lubuk Baja Kota, Kec. Lubuk Baja, Kota Batam",
+      "lat": 1.1396,
+      "lng": 104.0118,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0778-4888888",
+      "keterangan": "Pusat perbelanjaan paling modern dan megah di kawasan bisnis Lubuk Baja Batam"
+    },
+    {
+      "id": "mall-kepri-002",
+      "nama": "Mega Mall Batam Centre",
+      "kota": "Batam",
+      "provinsi": "Kepulauan Riau",
+      "alamat": "Jl. Engku Putri No. 1, Teluk Tering, Kec. Batam Kota, Kota Batam",
+      "lat": 1.1309,
+      "lng": 104.0538,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0778-470100",
+      "keterangan": "Mall strategis yang terhubung langsung melalui jembatan penyeberangan ke Pelabuhan Feri Internasional Batam Centre"
+    },
+    {
+      "id": "mall-kepri-003",
+      "nama": "Nagoya Hill Shopping Mall",
+      "kota": "Batam",
+      "provinsi": "Kepulauan Riau",
+      "alamat": "Jl. Teuku Umar No. 1, Lubuk Baja Kota, Kec. Lubuk Baja, Kota Batam",
+      "lat": 1.1444,
+      "lng": 104.0145,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0778-432988",
+      "keterangan": "Pusat perbelanjaan terlengkap dan destinasi utama wisatawan mancanegara untuk belanja oleh-oleh serta ritel"
+    },
+    {
+      "id": "mall-kepri-004",
+      "nama": "BCS Mall (Batam City Square)",
+      "kota": "Batam",
+      "provinsi": "Kepulauan Riau",
+      "alamat": "Jl. Bunga Raya, Batu Selicin, Kec. Lubuk Baja, Kota Batam",
+      "lat": 1.1325,
+      "lng": 104.0102,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0778-7437388",
+      "keterangan": "Mall favorit keluarga dengan beragam tenant fashion, hiburan, bowling, dan tempat rekreasi"
+    },
+    {
+      "id": "mall-kepri-005",
+      "nama": "Tanjungpinang City Center (TCC)",
+      "kota": "Tanjungpinang",
+      "provinsi": "Kepulauan Riau",
+      "alamat": "Jl. Asrama Haji No. 11, Sei Jang, Kec. Bukit Bestari, Kota Tanjungpinang",
+      "lat": 0.9023,
+      "lng": 104.4682,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0771-4440888",
+      "keterangan": "Pusat perbelanjaan modern terbesar di ibukota Provinsi Kepulauan Riau"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "kategori": "Mall",
+  "provinsi": "Papua Barat",
+  "data": [
+    {
+      "id": "mall-pabar-001",
+      "nama": "Manokwari City Mall (MCM)",
+      "kota": "Manokwari",
+      "provinsi": "Papua Barat",
+      "alamat": "Jl. Yos Sudarso, Manokwari Barat, Kec. Manokwari Barat, Kab. Manokwari",
+      "lat": -0.8645,
+      "lng": 134.0621,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0986-213888",
+      "keterangan": "Pusat perbelanjaan dan gaya hidup modern terbesar di Ibu Kota Papua Barat yang melayani kebutuhan ritel, hiburan, dan kuliner"
+    },
+    {
+      "id": "mall-pabar-002",
+      "nama": "Haji Bauw Plaza Manokwari",
+      "kota": "Manokwari",
+      "provinsi": "Papua Barat",
+      "alamat": "Jl. Yos Sudarso No. 12, Sanggeng, Kec. Manokwari Barat, Kab. Manokwari",
+      "lat": -0.8672,
+      "lng": 134.0654,
+      "jam_operasional": "09:00 - 21:30",
+      "kontak": "0986-211555",
+      "keterangan": "Pusat perbelanjaan ritel fashion, supermarket, dan kebutuhan harian masyarakat kawasan Sanggeng"
+    }
+  ]
+}

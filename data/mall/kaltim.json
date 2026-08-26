@@ -1,0 +1,102 @@
+{
+  "kategori": "Mall",
+  "provinsi": "Kalimantan Timur",
+  "data": [
+    {
+      "id": "mall-022",
+      "nama": "Samarinda Central Plaza",
+      "kota": "Samarinda",
+      "provinsi": "Kalimantan Timur",
+      "alamat": "Jl. Ruhui Rahayu No.15, Samarinda",
+      "lat": -0.4971,
+      "lng": 117.1532,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0541-738888",
+      "keterangan": "Mall utama di Samarinda"
+    },
+    {
+      "id": "mall-kaltim-001",
+      "nama": "Big Mall Samarinda",
+      "kota": "Samarinda",
+      "provinsi": "Kalimantan Timur",
+      "alamat": "Jl. Untung Suropati No. 08, Karang Asam Ulu, Kec. Sungai Kunjang, Kota Samarinda",
+      "lat": -0.5218,
+      "lng": 117.1215,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0541-7272888",
+      "keterangan": "Pusat perbelanjaan terbesar dan terlengkap di Kota Samarinda yang berada tepat di tepi Sungai Mahakam"
+    },
+    {
+      "id": "mall-kaltim-002",
+      "nama": "Pentacity Shopping Venue",
+      "kota": "Balikpapan",
+      "provinsi": "Kalimantan Timur",
+      "alamat": "Jl. Jend. Sudirman No. 47, Damai, Kec. Balikpapan Selatan, Kota Balikpapan",
+      "lat": -1.2662,
+      "lng": 116.8584,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0542-8521000",
+      "keterangan": "Mall superblok mewah bagian dari kawasan Balikpapan Superblock (BSB) yang terhubung langsung dengan Astara Hotel"
+    },
+    {
+      "id": "mall-kaltim-003",
+      "nama": "E-Walk Balikpapan Superblock",
+      "kota": "Balikpapan",
+      "provinsi": "Kalimantan Timur",
+      "alamat": "Jl. Jend. Sudirman No. 47, Damai, Kec. Balikpapan Selatan, Kota Balikpapan",
+      "lat": -1.2651,
+      "lng": 116.8572,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0542-7212888",
+      "keterangan": "Pusat perbelanjaan gaya hidup, hiburan, dan tempat nongkrong terfavorit di kawasan Balikpapan Superblock"
+    },
+    {
+      "id": "mall-kaltim-004",
+      "nama": "Plaza Balikpapan",
+      "kota": "Balikpapan",
+      "provinsi": "Kalimantan Timur",
+      "alamat": "Jl. Jend. Sudirman No. 1, Klandasan Ilir, Kec. Balikpapan Kota, Kota Balikpapan",
+      "lat": -1.2778,
+      "lng": 116.8315,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0542-731777",
+      "keterangan": "Mall legendaris pertama di Balikpapan yang kini dilengkapi promenade outdoor bernuansa tepi laut (Bay Park)"
+    },
+    {
+      "id": "mall-kaltim-005",
+      "nama": "Samarinda Central Plaza (SCP)",
+      "kota": "Samarinda",
+      "provinsi": "Kalimantan Timur",
+      "alamat": "Jl. Pulau Irian No. 1, Karang Mumus, Kec. Samarinda Kota, Kota Samarinda",
+      "lat": -0.5015,
+      "lng": 117.1512,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0541-741122",
+      "keterangan": "Mall keluarga terfavorit dan strategis di pusat kota yang terhubung dengan Aston Samarinda Hotel"
+    },
+    {
+      "id": "mall-kaltim-006",
+      "nama": "Plaza Mulia Samarinda",
+      "kota": "Samarinda",
+      "provinsi": "Kalimantan Timur",
+      "alamat": "Jl. Bhayangkara No. 58, Bugis, Kec. Samarinda Kota, Kota Samarinda",
+      "lat": -0.4938,
+      "lng": 117.1468,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0541-739888",
+      "keterangan": "Pusat gaya hidup modern berlokasi di dekat Balai Kota Samarinda dan Lapangan GOR Segiri"
+    },
+    {
+      "id": "mall-kaltim-007",
+      "nama": "City Mall Bontang (Citimall Bontang)",
+      "kota": "Bontang",
+      "provinsi": "Kalimantan Timur",
+      "alamat": "Jl. Jend. Soedirman, Tanjung Laut, Kec. Bontang Selatan, Kota Bontang",
+      "lat": 0.1285,
+      "lng": 117.4782,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0548-3561888",
+      "keterangan": "Pusat perbelanjaan ritel modern dan bioskop pertama serta terbesar di Kota Bontang"
+    }
+  ]
+}

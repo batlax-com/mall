@@ -1,0 +1,66 @@
+{
+  "kategori": "Mall",
+  "provinsi": "Riau",
+  "data": [
+    {
+      "id": "mall-riau-001",
+      "nama": "Mall SKA Pekanbaru",
+      "kota": "Pekanbaru",
+      "provinsi": "Riau",
+      "alamat": "Jl. Soekarno - Hatta No. 114, Delima, Kec. Tampan, Kota Pekanbaru",
+      "lat": 0.5052,
+      "lng": 101.4208,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0761-864000",
+      "keterangan": "Salah satu mall terbesar dan paling populer di Pekanbaru dengan pilihan tenant ritel internasional dan domestik"
+    },
+    {
+      "id": "mall-riau-002",
+      "nama": "Living World Pekanbaru",
+      "kota": "Pekanbaru",
+      "provinsi": "Riau",
+      "alamat": "Jl. Soekarno - Hatta No. 34, Tangkerang Barat, Kec. Marpoyan Damai, Kota Pekanbaru",
+      "lat": 0.5036,
+      "lng": 101.4223,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0761-8012888",
+      "keterangan": "Pusat perbelanjaan modern berkonsep home living, lifestyle, dan entertainment di persimpangan utama Pekanbaru"
+    },
+    {
+      "id": "mall-riau-003",
+      "nama": "Mal Ciputra Seraya",
+      "kota": "Pekanbaru",
+      "provinsi": "Riau",
+      "alamat": "Jl. Riau No. 58, Kampung Baru, Kec. Senapelan, Kota Pekanbaru",
+      "lat": 0.5361,
+      "lng": 101.4395,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0761-868888",
+      "keterangan": "Mall keluarga terkemuka di pusat Kota Pekanbaru dengan area perbelanjaan, tempat makan, dan bioskop"
+    },
+    {
+      "id": "mall-riau-004",
+      "nama": "Mal Pekanbaru (MP)",
+      "kota": "Pekanbaru",
+      "provinsi": "Riau",
+      "alamat": "Jl. Jend. Sudirman No. 123, Tanah Datar, Kec. Pekanbaru Kota, Kota Pekanbaru",
+      "lat": 0.5284,
+      "lng": 101.4468,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0761-850777",
+      "keterangan": "Pusat perbelanjaan favorit masyarakat di jantung kota yang terkenal sebagai pusat IT, smartphone, dan ritel"
+    },
+    {
+      "id": "mall-riau-005",
+      "nama": "Citimall Dumai",
+      "kota": "Dumai",
+      "provinsi": "Riau",
+      "alamat": "Jl. Bukit Datuk, Kec. Dumai Selatan, Kota Dumai",
+      "lat": 1.6669,
+      "lng": 101.4372,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0765-4300888",
+      "keterangan": "Pusat perbelanjaan dan rekreasi modern utama yang melayani kota pelabuhan Dumai"
+    }
+  ]
+}

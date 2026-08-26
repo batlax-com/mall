@@ -1,0 +1,66 @@
+{
+  "kategori": "Mall",
+  "provinsi": "Aceh",
+  "data": [
+    {
+      "id": "mall-aceh-001",
+      "nama": "Plaza Aceh",
+      "kota": "Banda Aceh",
+      "provinsi": "Aceh",
+      "alamat": "Jl. T. Hasan Dek No. 49, Beurawe, Kec. Kuta Alam, Kota Banda Aceh",
+      "lat": 5.5548,
+      "lng": 95.3309,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0651-7555111",
+      "keterangan": "Pusat perbelanjaan modern (ex-Hermes Palace Mall) di bawah naungan Lippo Malls"
+    },
+    {
+      "id": "mall-aceh-002",
+      "nama": "Suzuya Mall Banda Aceh",
+      "kota": "Banda Aceh",
+      "provinsi": "Aceh",
+      "alamat": "Jl. Teuku Umar, Lamtemen Timur, Kec. Jaya Baru, Kota Banda Aceh",
+      "lat": 5.5392,
+      "lng": 95.3121,
+      "jam_operasional": "09:30 - 22:00",
+      "kontak": "0651-8011022",
+      "keterangan": "Pusat belanja keluarga terbesar di Banda Aceh dengan fasilitas supermarket dan hiburan"
+    },
+    {
+      "id": "mall-aceh-003",
+      "nama": "Suzuya Mall Langsa",
+      "kota": "Langsa",
+      "provinsi": "Aceh",
+      "alamat": "Jl. Ahmad Yani No. 2, Paya Bujok Seuleumak, Kec. Langsa Baro, Kota Langsa",
+      "lat": 4.4754,
+      "lng": 97.9626,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0641-425200",
+      "keterangan": "Pusat perbelanjaan dan wahana bermain keluarga utama di Kota Langsa"
+    },
+    {
+      "id": "mall-aceh-004",
+      "nama": "Suzuya Mall Meulaboh",
+      "kota": "Aceh Barat",
+      "provinsi": "Aceh",
+      "alamat": "Jl. Nasional, Ujung Kalak, Kec. Johan Pahlawan, Kab. Aceh Barat",
+      "lat": 4.1436,
+      "lng": 96.1287,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0655-7551000",
+      "keterangan": "Mall dan pusat gaya hidup utama di wilayah pesisir barat Aceh"
+    },
+    {
+      "id": "mall-aceh-005",
+      "nama": "Suzuya Mall Bireuen",
+      "kota": "Bireuen",
+      "provinsi": "Aceh",
+      "alamat": "Jl. Malikussaleh, Simpang Empat, Kec. Kota Juang, Kab. Bireuen",
+      "lat": 5.2023,
+      "lng": 96.7011,
+      "jam_operasional": "09:30 - 22:00",
+      "kontak": "0644-323088",
+      "keterangan": "Pusat perbelanjaan strategis untuk masyarakat Kabupaten Bireuen dan sekitarnya"
+    }
+  ]
+}

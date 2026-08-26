@@ -1,0 +1,66 @@
+{
+  "kategori": "Mall",
+  "provinsi": "Kalimantan Selatan",
+  "data": [
+    {
+      "id": "mall-023",
+      "nama": "Duta Mall Banjarmasin",
+      "kota": "Banjarmasin",
+      "provinsi": "Kalimantan Selatan",
+      "alamat": "Jl. Ahmad Yani No.67, Banjarmasin",
+      "lat": -3.3254,
+      "lng": 114.5942,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0511-3363666",
+      "keterangan": "Mall terbesar di Banjarmasin"
+    },
+    {
+      "id": "mall-kalsel-001",
+      "nama": "Duta Mall Banjarmasin 1 & 2",
+      "kota": "Banjarmasin",
+      "provinsi": "Kalimantan Selatan",
+      "alamat": "Jl. A. Yani Km. 2 No. 98, Melayu, Kec. Banjarmasin Tengah, Kota Banjarmasin",
+      "lat": -3.3235,
+      "lng": 114.6015,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0511-3272999",
+      "keterangan": "Pusat perbelanjaan terbesar dan megah di Kalimantan Selatan yang terintegrasi dengan Mercure Hotel dan Favehotel"
+    },
+    {
+      "id": "mall-kalsel-002",
+      "nama": "Citimall Banjarbaru",
+      "kota": "Banjarbaru",
+      "provinsi": "Kalimantan Selatan",
+      "alamat": "Jl. A. Yani Km. 37.1, Sungai Paring, Kec. Martapura, Kota Banjarbaru",
+      "lat": -3.4382,
+      "lng": 114.8398,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0511-5917888",
+      "keterangan": "Mall gaya hidup dan hiburan modern di dekat kawasan pusat pemerintahan ibu kota Provinsi Kalimantan Selatan"
+    },
+    {
+      "id": "mall-kalsel-003",
+      "nama": "Mitra Plaza",
+      "kota": "Banjarmasin",
+      "provinsi": "Kalimantan Selatan",
+      "alamat": "Jl. Pangeran Antasari No. 1, Pekapuran Laut, Kec. Banjarmasin Tengah, Kota Banjarmasin",
+      "lat": -3.3278,
+      "lng": 114.5942,
+      "jam_operasional": "09:30 - 21:30",
+      "kontak": "0511-3253000",
+      "keterangan": "Pusat perbelanjaan ritel legendaris yang berlokasi strategis di tepi Sungai Martapura"
+    },
+    {
+      "id": "mall-kalsel-004",
+      "nama": "Plaza Mulia Banjarmasin",
+      "kota": "Banjarmasin",
+      "provinsi": "Kalimantan Selatan",
+      "alamat": "Jl. Pangeran Samudera No. 88, Kertak Baru Ulu, Kec. Banjarmasin Tengah, Kota Banjarmasin",
+      "lat": -3.3195,
+      "lng": 114.5898,
+      "jam_operasional": "09:30 - 21:30",
+      "kontak": "0511-3365888",
+      "keterangan": "Pusat perbelanjaan ritel dan department store di kawasan pusat niaga Kota Banjarmasin"
+    }
+  ]
+}

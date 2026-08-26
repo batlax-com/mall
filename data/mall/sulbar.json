@@ -1,0 +1,30 @@
+{
+  "kategori": "Mall",
+  "provinsi": "Sulawesi Barat",
+  "data": [
+    {
+      "id": "mall-sulbar-001",
+      "nama": "Maleo Town Square (Matos)",
+      "kota": "Mamuju",
+      "provinsi": "Sulawesi Barat",
+      "alamat": "Jl. Yos Sudarso No. 8, Binanga, Kec. Mamuju, Kab. Mamuju",
+      "lat": -2.6742,
+      "lng": 118.8915,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0426-2322888",
+      "keterangan": "Pusat perbelanjaan dan hiburan modern terbesar serta pertama di Sulawesi Barat yang terintegrasi langsung dengan Grand Maleo Hotel"
+    },
+    {
+      "id": "mall-sulbar-002",
+      "nama": "Polewali Town Square & Retail Center",
+      "kota": "Polewali Mandar",
+      "provinsi": "Sulawesi Barat",
+      "alamat": "Jl. Jend. Sudirman, Pekkabata, Kec. Polewali, Kab. Polewali Mandar",
+      "lat": -3.4328,
+      "lng": 119.3452,
+      "jam_operasional": "09:30 - 21:30",
+      "kontak": "0428-21088",
+      "keterangan": "Pusat belanja ritel dan gaya hidup favorit warga di kawasan pusat perekonomian Polewali Mandar"
+    }
+  ]
+}

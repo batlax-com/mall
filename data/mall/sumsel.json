@@ -1,0 +1,66 @@
+{
+  "kategori": "Mall",
+  "provinsi": "Sumatera Selatan",
+  "data": [
+    {
+      "id": "mall-019",
+      "nama": "Palembang Square",
+      "kota": "Palembang",
+      "provinsi": "Sumatera Selatan",
+      "alamat": "Jl. POM IX No.1, Palembang",
+      "lat": -2.9714,
+      "lng": 104.7616,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0711-355555",
+      "keterangan": "Mall terbesar di Palembang"
+    },
+    {
+      "id": "mall-sumsel-001",
+      "nama": "Palembang Indah Mall (PIM)",
+      "kota": "Palembang",
+      "provinsi": "Sumatera Selatan",
+      "alamat": "Jl. Letkol HK. Ramli No. 1, 24 Ilir, Kec. Bukit Kecil, Kota Palembang",
+      "lat": -2.9863,
+      "lng": 104.7554,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0711-376888",
+      "keterangan": "Pusat gaya hidup dan perbelanjaan modern populer di pusat Kota Palembang"
+    },
+    {
+      "id": "mall-sumsel-002",
+      "nama": "Palembang Icon Mall (PICON)",
+      "kota": "Palembang",
+      "provinsi": "Sumatera Selatan",
+      "alamat": "Jl. POM IX, Lorok Pakjo, Kec. Ilir Barat I, Kota Palembang",
+      "lat": -2.9772,
+      "lng": 104.7431,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0711-5649000",
+      "keterangan": "Mall gaya hidup kelas atas yang berada di kawasan PSCC dengan view danau"
+    },
+    {
+      "id": "mall-sumsel-003",
+      "nama": "Palembang Square (PS Mall)",
+      "kota": "Palembang",
+      "provinsi": "Sumatera Selatan",
+      "alamat": "Jl. Angkatan 45, Lorok Pakjo, Kec. Ilir Barat I, Kota Palembang",
+      "lat": -2.9738,
+      "lng": 104.7423,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0711-380001",
+      "keterangan": "Pusat perbelanjaan keluarga teramai yang terhubung langsung dengan PSx Mall"
+    },
+    {
+      "id": "mall-sumsel-004",
+      "nama": "OPI Mall",
+      "kota": "Banyuasin",
+      "provinsi": "Sumatera Selatan",
+      "alamat": "Jl. Gubernur HA. Bastari, Sungai Jakabaring, Kec. Rambutan, Kab. Banyuasin",
+      "lat": -3.0247,
+      "lng": 104.7912,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0711-5740008",
+      "keterangan": "Mall modern terintegrasi di kawasan Jakabaring lengkap dengan wahana ice skating"
+    }
+  ]
+}

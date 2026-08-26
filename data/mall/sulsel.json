@@ -1,0 +1,114 @@
+{
+  "kategori": "Mall",
+  "provinsi": "Sulawesi Selatan",
+  "data": [
+    {
+      "id": "mall-024",
+      "nama": "Trans Studio Mall Makassar",
+      "kota": "Makassar",
+      "provinsi": "Sulawesi Selatan",
+      "alamat": "Jl. Metro Tanjung Bunga, Makassar",
+      "lat": -5.1744,
+      "lng": 119.4056,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0411-5288888",
+      "keterangan": "Mall dengan tema park terbesar di Makassar"
+    },
+    {
+      "id": "mall-sulsel-001",
+      "nama": "Mal Ratu Indah (MaRI)",
+      "kota": "Makassar",
+      "provinsi": "Sulawesi Selatan",
+      "alamat": "Jl. Dr. Sam Ratulangi No. 35, Labuang Baji, Kec. Mamajang, Kota Makassar",
+      "lat": -5.1568,
+      "lng": 119.4182,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0411-853222",
+      "keterangan": "Pusat perbelanjaan keluarga dan gaya hidup hijau berkonsep eco-green Mall yang terletak di jantung Kota Makassar"
+    },
+    {
+      "id": "mall-sulsel-002",
+      "nama": "Trans Studio Mall (TSM) Makassar",
+      "kota": "Makassar",
+      "provinsi": "Sulawesi Selatan",
+      "alamat": "Jl. Metro Tanjung Bunga, Maccini Sombala, Kec. Tamalate, Kota Makassar",
+      "lat": -5.1561,
+      "lng": 119.3975,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0411-8117000",
+      "keterangan": "Mall superblok mewah tepi pantai yang terintegrasi dengan Trans Studio Theme Park dan Trans Studio Hotel"
+    },
+    {
+      "id": "mall-sulsel-003",
+      "nama": "Nipah Park Makassar",
+      "kota": "Makassar",
+      "provinsi": "Sulawesi Selatan",
+      "alamat": "Jl. Urip Sumoharjo No. 20, Panaikang, Kec. Panakkukang, Kota Makassar",
+      "lat": -5.1378,
+      "lng": 119.4485,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0411-3662222",
+      "keterangan": "Pusat gaya hidup modern berkonsep ramah lingkungan dengan dominasi taman hijau dan ruang terbuka terbuka"
+    },
+    {
+      "id": "mall-sulsel-004",
+      "nama": "Mall Panakkukang (MP)",
+      "kota": "Makassar",
+      "provinsi": "Sulawesi Selatan",
+      "alamat": "Jl. Boulevard, Masale, Kec. Panakkukang, Kota Makassar",
+      "lat": -5.1558,
+      "lng": 119.4475,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0411-447788",
+      "keterangan": "Mall terbesar di kawasan bisnis Panakkukang yang terhubung langsung dengan Panakkukang Square dan MyKO Hotel"
+    },
+    {
+      "id": "mall-sulsel-005",
+      "nama": "Phinisi Point (PiPo Mall)",
+      "kota": "Makassar",
+      "provinsi": "Sulawesi Selatan",
+      "alamat": "Jl. Metro Tanjung Bunga No. 2, Panambungan, Kec. Mariso, Kota Makassar",
+      "lat": -5.1472,
+      "lng": 119.4068,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0411-8120000",
+      "keterangan": "Mall gaya hidup dan tempat nongkrong kekinian bertema ikonic kota-kota dunia yang terhubung dengan Hotel The Rinra"
+    },
+    {
+      "id": "mall-sulsel-006",
+      "nama": "MTC Karebosi",
+      "kota": "Makassar",
+      "provinsi": "Sulawesi Selatan",
+      "alamat": "Jl. Ahmad Yani No. 49, Pattunuang, Kec. Wajo, Kota Makassar",
+      "lat": -5.1345,
+      "lng": 119.4088,
+      "jam_operasional": "09:30 - 21:30",
+      "kontak": "0411-3652000",
+      "keterangan": "Pusat perbelanjaan ritel fashion, barang elektronik, dan gadget terbesar yang terhubung dengan Karebosi Link"
+    },
+    {
+      "id": "mall-sulsel-007",
+      "nama": "City Market Palopo",
+      "kota": "Palopo",
+      "provinsi": "Sulawesi Selatan",
+      "alamat": "Jl. Ratulangi, Salobulo, Kec. Wara Utara, Kota Palopo",
+      "lat": -2.9845,
+      "lng": 120.1942,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0471-3200888",
+      "keterangan": "Pusat perbelanjaan dan gaya hidup modern terbesar di kawasan Luwu Raya"
+    },
+    {
+      "id": "mall-sulsel-008",
+      "nama": "Sejahtera Family Mall Parepare",
+      "kota": "Parepare",
+      "provinsi": "Sulawesi Selatan",
+      "alamat": "Jl. Bau Massepe, Mallusetasi, Kec. Ujung, Kota Parepare",
+      "lat": -4.0135,
+      "lng": 119.6248,
+      "jam_operasional": "09:30 - 21:30",
+      "kontak": "0421-23888",
+      "keterangan": "Pusat belanja ritel dan rekreasi keluarga pilihan di Kota Pelabuhan Parepare"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "kategori": "Mall",
+  "provinsi": "Gorontalo",
+  "data": [
+    {
+      "id": "mall-gorontalo-001",
+      "nama": "Citimall Gorontalo",
+      "kota": "Gorontalo",
+      "provinsi": "Gorontalo",
+      "alamat": "Jl. Sultan Botutihe No. 88, Heledulaa Selatan, Kec. Kota Timur, Kota Gorontalo",
+      "lat": 0.5368,
+      "lng": 123.0642,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0435-828888",
+      "keterangan": "Pusat perbelanjaan dan gaya hidup modern terbesar di Gorontalo yang terintegrasi langsung dengan Hotel Santika"
+    },
+    {
+      "id": "mall-gorontalo-002",
+      "nama": "Gorontalo Mall",
+      "kota": "Gorontalo",
+      "provinsi": "Gorontalo",
+      "alamat": "Jl. Sultan Botutihe, IPILO, Kec. Kota Timur, Kota Gorontalo",
+      "lat": 0.5372,
+      "lng": 123.0655,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0435-827777",
+      "keterangan": "Pusat hiburan, ritel, dan kuliner keluarga populer di pusat bisnis Kota Gorontalo"
+    }
+  ]
+}

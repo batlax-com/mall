@@ -1,0 +1,30 @@
+{
+  "kategori": "Mall",
+  "provinsi": "Kepulauan Bangka Belitung",
+  "data": [
+    {
+      "id": "mall-babel-001",
+      "nama": "Bangka Trade Center (BTC)",
+      "kota": "Pangkalpinang",
+      "provinsi": "Kepulauan Bangka Belitung",
+      "alamat": "Jl. Pasar Pembangunan, Pasar Genas, Kec. Taman Sari, Kota Pangkal Pinang",
+      "lat": -2.1245,
+      "lng": 106.1147,
+      "jam_operasional": "09:00 - 21:00",
+      "kontak": "0717-438888",
+      "keterangan": "Pusat grosir dan ritel modern utama di jantung Kota Pangkalpinang"
+    },
+    {
+      "id": "mall-babel-002",
+      "nama": "Transmart Pangkalpinang",
+      "kota": "Pangkalpinang",
+      "provinsi": "Kepulauan Bangka Belitung",
+      "alamat": "Jl. Jendral Sudirman, Selindung Baru, Kec. Gabek, Kota Pangkal Pinang",
+      "lat": -2.1062,
+      "lng": 106.1132,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0717-9108000",
+      "keterangan": "Pusat perbelanjaan modern yang dilengkapi wahana Trans Studio Mini di Pulau Bangka"
+    }
+  ]
+}

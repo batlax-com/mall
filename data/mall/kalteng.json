@@ -1,0 +1,66 @@
+{
+  "kategori": "Mall",
+  "provinsi": "Kalimantan Tengah",
+  "data": [
+    {
+      "id": "mall-kalteng-001",
+      "nama": "Duta Mall Palangka Raya",
+      "kota": "Palangka Raya",
+      "provinsi": "Kalimantan Tengah",
+      "alamat": "Jl. Adonis Samad No. 8, Langkai, Kec. Pahandut, Kota Palangka Raya",
+      "lat": -2.2488,
+      "lng": 113.9231,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0536-4248888",
+      "keterangan": "Pusat perbelanjaan modern 6 lantai terbesar di Kalimantan Tengah yang terintegrasi dengan FUGO Hotel Palangka Raya"
+    },
+    {
+      "id": "mall-kalteng-002",
+      "nama": "Palangkaraya Mall (Palma)",
+      "kota": "Palangka Raya",
+      "provinsi": "Kalimantan Tengah",
+      "alamat": "Jl. Tjilik Riwut No. 1, Palangka, Kec. Jekan Raya, Kota Palangka Raya",
+      "lat": -2.2081,
+      "lng": 113.9162,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0536-3238888",
+      "keterangan": "Pusat perbelanjaan dan gaya hidup ikonik pertama di Kota Palangka Raya yang berlokasi strategis di tepi Bundaran Besar"
+    },
+    {
+      "id": "mall-kalteng-003",
+      "nama": "Mega Town Square (Metos)",
+      "kota": "Palangka Raya",
+      "provinsi": "Kalimantan Tengah",
+      "alamat": "Jl. Yos Sudarso No. 8, Menteng, Kec. Jekan Raya, Kota Palangka Raya",
+      "lat": -2.2152,
+      "lng": 113.9198,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0536-3221999",
+      "keterangan": "Pusat perbelanjaan keluarga modern dan hiburan ritel favorit yang melayani masyarakat Kota Palangka Raya"
+    },
+    {
+      "id": "mall-kalteng-004",
+      "nama": "Citimall Sampit",
+      "kota": "Kotawaringin Timur",
+      "provinsi": "Kalimantan Tengah",
+      "alamat": "Jl. Jend. Sudirman Km. 1.5, Mentawa Baru Hulu, Kec. Mentawa Baru Ketapang, Kab. Kotawaringin Timur",
+      "lat": -2.5412,
+      "lng": 112.9468,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0531-2065888",
+      "keterangan": "Pusat perbelanjaan dan rekreasi keluarga modern pertama serta terbesar di Kabupaten Kotawaringin Timur (Sampit)"
+    },
+    {
+      "id": "mall-kalteng-005",
+      "nama": "Citimall Pangkalan Bun",
+      "kota": "Kotawaringin Barat",
+      "provinsi": "Kalimantan Tengah",
+      "alamat": "Jl. Iskandar, Madurejo, Kec. Arut Selatan, Kab. Kotawaringin Barat",
+      "lat": -2.6845,
+      "lng": 111.6324,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0532-6610888",
+      "keterangan": "Pusat gaya hidup, ritel modern, dan bioskop terlengkap yang melayani wilayah Pangkalan Bun dan sekitarnya"
+    }
+  ]
+}

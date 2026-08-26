@@ -1,0 +1,54 @@
+{
+  "kategori": "Mall",
+  "provinsi": "Sumatera Barat",
+  "data": [
+    {
+      "id": "mall-sumbar-001",
+      "nama": "Plaza Andalas",
+      "kota": "Padang",
+      "provinsi": "Sumatera Barat",
+      "alamat": "Jl. Pemuda No. 1, Olo, Kec. Padang Barat, Kota Padang",
+      "lat": -0.9525,
+      "lng": 100.3551,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0751-891111",
+      "keterangan": "Pusat perbelanjaan dan hiburan teramai di pusat Kota Padang dengan tenant Suzuya dan Cinema XXI"
+    },
+    {
+      "id": "mall-sumbar-002",
+      "nama": "Basko Grand Mall",
+      "kota": "Padang",
+      "provinsi": "Sumatera Barat",
+      "alamat": "Jl. Prof. Dr. Hamka No. 2A, Air Tawar Timur, Kec. Padang Utara, Kota Padang",
+      "lat": -0.9022,
+      "lng": 100.3524,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0751-448888",
+      "keterangan": "Mall terintegrasi dengan Grand Basko Hotel yang terletak strategis dekat Universitas Negeri Padang"
+    },
+    {
+      "id": "mall-sumbar-003",
+      "nama": "Transmart Padang",
+      "kota": "Padang",
+      "provinsi": "Sumatera Barat",
+      "alamat": "Jl. Khatib Sulaiman No. 85, Ulak Karang Selatan, Kec. Padang Utara, Kota Padang",
+      "lat": -0.9238,
+      "lng": 100.3598,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0751-8950800",
+      "keterangan": "Pusat perbelanjaan modern serba ada yang dilengkapi dengan indoor theme park Trans Studio Mini"
+    },
+    {
+      "id": "mall-sumbar-004",
+      "nama": "Bukittinggi Plaza",
+      "kota": "Bukittinggi",
+      "provinsi": "Sumatera Barat",
+      "alamat": "Jl. Benteng No. 1, Benteng Pasar Atas, Kec. Guguk Panjang, Kota Bukittinggi",
+      "lat": -0.3045,
+      "lng": 100.3692,
+      "jam_operasional": "09:00 - 21:00",
+      "kontak": "0752-21888",
+      "keterangan": "Pusat perbelanjaan modern di kawasan wisata strategis ikonik dekat Jam Gadang"
+    }
+  ]
+}

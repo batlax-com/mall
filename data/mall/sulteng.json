@@ -1,0 +1,42 @@
+{
+  "kategori": "Mall",
+  "provinsi": "Sulawesi Tengah",
+  "data": [
+    {
+      "id": "mall-sulteng-001",
+      "nama": "Palu Grand Mall (PGM)",
+      "kota": "Palu",
+      "provinsi": "Sulawesi Tengah",
+      "alamat": "Jl. Cumi-Cumi No. 8, Lere, Kec. Palu Barat, Kota Palu",
+      "lat": -0.8872,
+      "lng": 119.8465,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0451-4131888",
+      "keterangan": "Pusat perbelanjaan modern terbesar di Sulawesi Tengah yang menawarkan konsep gaya hidup tepi pantai Teluk Palu"
+    },
+    {
+      "id": "mall-sulteng-002",
+      "nama": "Palu Plaza",
+      "kota": "Palu",
+      "provinsi": "Sulawesi Tengah",
+      "alamat": "Jl. Danau Lindu No. 1, Siranindi, Kec. Palu Barat, Kota Palu",
+      "lat": -0.8951,
+      "lng": 119.8552,
+      "jam_operasional": "09:00 - 21:30",
+      "kontak": "0451-422888",
+      "keterangan": "Pusat perbelanjaan dan niaga ritel legendaris yang menyediakan berbagai kebutuhan fashion, ritel, dan produk elektronik di pusat Kota Palu"
+    },
+    {
+      "id": "mall-sulteng-003",
+      "nama": "Banggai Shopping Center",
+      "kota": "Banggai",
+      "provinsi": "Sulawesi Tengah",
+      "alamat": "Jl. Ahmad Yani, Luwuk, Kec. Luwuk, Kab. Banggai",
+      "lat": -0.9415,
+      "lng": 122.7882,
+      "jam_operasional": "09:30 - 21:30",
+      "kontak": "0461-21888",
+      "keterangan": "Pusat perbelanjaan dan ritel modern utama yang melayani kawasan Kota Luwuk dan Kabupaten Banggai"
+    }
+  ]
+}

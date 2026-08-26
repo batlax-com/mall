@@ -1,0 +1,30 @@
+{
+  "kategori": "Mall",
+  "provinsi": "Bengkulu",
+  "data": [
+    {
+      "id": "mall-bengkulu-001",
+      "nama": "Bencoolen Mall (BenMall)",
+      "kota": "Bengkulu",
+      "provinsi": "Bengkulu",
+      "alamat": "Jl. Pariwisata No. 1, Kebun Kenanga, Kec. Ratu Agung, Kota Bengkulu",
+      "lat": -3.8188,
+      "lng": 102.2748,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0736-348888",
+      "keterangan": "Pusat perbelanjaan terbesar dan terlengkap di Kota Bengkulu dengan lokasi dekat pantai"
+    },
+    {
+      "id": "mall-bengkulu-002",
+      "nama": "Mega Mall Bengkulu",
+      "kota": "Bengkulu",
+      "provinsi": "Bengkulu",
+      "alamat": "Jl. KZ. Abidin, Pasar Minggu, Kec. Teluk Segara, Kota Bengkulu",
+      "lat": -3.7915,
+      "lng": 102.2612,
+      "jam_operasional": "09:30 - 21:30",
+      "kontak": "0736-26888",
+      "keterangan": "Pusat perbelanjaan ritel modern strategis di kawasan bisnis Pasar Minggu Bengkulu"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "kategori": "Mall",
+  "provinsi": "Maluku Utara",
+  "data": [
+    {
+      "id": "mall-malut-001",
+      "nama": "Jatiland Mall Ternate",
+      "kota": "Ternate",
+      "provinsi": "Maluku Utara",
+      "alamat": "Jl. Sultan M. Djabir Sjah, Gamalama, Kec. Ternate Tengah, Kota Ternate",
+      "lat": 0.7874,
+      "lng": 127.3872,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0921-3128888",
+      "keterangan": "Pusat perbelanjaan dan gaya hidup terbesar serta utama di Maluku Utara yang terletak di tepi pantai Kota Ternate"
+    },
+    {
+      "id": "mall-malut-002",
+      "nama": "Muara Mall Ternate",
+      "kota": "Ternate",
+      "provinsi": "Maluku Utara",
+      "alamat": "Jl. Merdeka No. 1, Gamalama, Kec. Ternate Tengah, Kota Ternate",
+      "lat": 0.7891,
+      "lng": 127.3858,
+      "jam_operasional": "09:30 - 21:30",
+      "kontak": "0921-3125555",
+      "keterangan": "Pusat perbelanjaan ritel modern dan hiburan keluarga terfavorit di kawasan pusat niaga Ternate"
+    },
+    {
+      "id": "mall-malut-003",
+      "nama": "Plaza Gamalama",
+      "kota": "Ternate",
+      "provinsi": "Maluku Utara",
+      "alamat": "Jl. Pahlawan Revolusi, Gamalama, Kec. Ternate Tengah, Kota Ternate",
+      "lat": 0.7885,
+      "lng": 127.3845,
+      "jam_operasional": "09:00 - 21:00",
+      "kontak": "0921-3122111",
+      "keterangan": "Pusat perbelanjaan ritel fashion dan kebutuhan harian masyarakat Kota Ternate"
+    }
+  ]
+}

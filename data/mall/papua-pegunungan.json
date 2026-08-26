@@ -1,0 +1,30 @@
+{
+  "kategori": "Mall",
+  "provinsi": "Papua Pegunungan",
+  "data": [
+    {
+      "id": "mall-papeg-001",
+      "nama": "Pusat Perbelanjaan Ritel Wamena",
+      "kota": "Jayawijaya",
+      "provinsi": "Papua Pegunungan",
+      "alamat": "Jl. Trikora, Wamena, Kec. Wamena, Kab. Jayawijaya",
+      "lat": -4.0982,
+      "lng": 138.9452,
+      "jam_operasional": "08:00 - 20:00",
+      "kontak": "0969-31555",
+      "keterangan": "Pusat perdagangan ritel, pertokoan modern, dan distribusi logistik utama yang melayani kawasan Ibu Kota Provinsi Papua Pegunungan di Wamena"
+    },
+    {
+      "id": "mall-papeg-002",
+      "nama": "Wamena Supermarket & Shopping Center",
+      "kota": "Jayawijaya",
+      "provinsi": "Papua Pegunungan",
+      "alamat": "Jl. Yos Sudarso, Wamena, Kec. Wamena, Kab. Jayawijaya",
+      "lat": -4.0951,
+      "lng": 138.9488,
+      "jam_operasional": "08:30 - 20:30",
+      "kontak": "0969-32111",
+      "keterangan": "Pusat belanja kebutuhan harian dan ritel modern terfavorit bagi masyarakat dan pendatang di Kabupaten Jayawijaya"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "kategori": "Mall",
+  "provinsi": "Papua Tengah",
+  "data": [
+    {
+      "id": "mall-pateng-001",
+      "nama": "Diana Shopping Center Timika",
+      "kota": "Mimika",
+      "provinsi": "Papua Tengah",
+      "alamat": "Jl. Cenderawasih No. 8, Belakang Pasar Lama, Kec. Mimika Baru, Kab. Mimika",
+      "lat": -4.5428,
+      "lng": 136.8852,
+      "jam_operasional": "09:00 - 21:30",
+      "kontak": "0901-321888",
+      "keterangan": "Pusat perbelanjaan modern 4 lantai terbesar dan paling lengkap di Kabupaten Mimika yang menyediakan ritel fashion, supermarket, hingga area kuliner"
+    },
+    {
+      "id": "mall-pateng-002",
+      "nama": "Mulia Shopping Center Nabire",
+      "kota": "Nabire",
+      "provinsi": "Papua Tengah",
+      "alamat": "Jl. Yos Sudarso, Karang Mulia, Kec. Nabire, Kab. Nabire",
+      "lat": -3.3645,
+      "lng": 135.4982,
+      "jam_operasional": "09:00 - 21:00",
+      "kontak": "0984-21555",
+      "keterangan": "Pusat belanja ritel modern utama yang melayani kawasan Ibu Kota Provinsi Papua Tengah di Nabire"
+    },
+    {
+      "id": "mall-pateng-003",
+      "nama": "Gelael Supermarket & Department Store Timika",
+      "kota": "Mimika",
+      "provinsi": "Papua Tengah",
+      "alamat": "Jl. Timika Indah, Kec. Mimika Baru, Kab. Mimika",
+      "lat": -4.5385,
+      "lng": 136.8912,
+      "jam_operasional": "09:30 - 21:30",
+      "kontak": "0901-322111",
+      "keterangan": "Pusat belanja kebutuhan harian, ritel, dan produk gaya hidup terfavorit di Kota Timika"
+    }
+  ]
+}

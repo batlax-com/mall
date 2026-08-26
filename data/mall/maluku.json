@@ -1,0 +1,42 @@
+{
+  "kategori": "Mall",
+  "provinsi": "Maluku",
+  "data": [
+    {
+      "id": "mall-maluku-001",
+      "nama": "Maluku City Mall (MCM)",
+      "kota": "Ambon",
+      "provinsi": "Maluku",
+      "alamat": "Jl. Jend. Sudirman No. 1, Tantui, Kec. Sirimau, Kota Ambon",
+      "lat": -3.6845,
+      "lng": 128.1962,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0911-356888",
+      "keterangan": "Pusat perbelanjaan modern pertama dan terbesar di Kota Ambon yang terintegrasi dengan berbagai tenant ritel nasional serta pilihan hiburan"
+    },
+    {
+      "id": "mall-maluku-002",
+      "nama": "Ambon City Center (ACC)",
+      "kota": "Ambon",
+      "provinsi": "Maluku",
+      "alamat": "Jl. Wolter Monginsidi, Passo, Kec. Baguala, Kota Ambon",
+      "lat": -3.6482,
+      "lng": 128.2415,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0911-362188",
+      "keterangan": "Pusat gaya hidup dan rekreasi keluarga modern yang melayani kawasan Passo dan sekitarnya"
+    },
+    {
+      "id": "mall-maluku-003",
+      "nama": "Plaza Ambon",
+      "kota": "Ambon",
+      "provinsi": "Maluku",
+      "alamat": "Jl. Sam Ratulangi No. 1, Honipopu, Kec. Sirimau, Kota Ambon",
+      "lat": -3.6938,
+      "lng": 128.1812,
+      "jam_operasional": "09:30 - 21:30",
+      "kontak": "0911-342111",
+      "keterangan": "Pusat perbelanjaan ritel legendaris yang berlokasi strategis di pusat kota dekat kawasan Lapangan Merdeka Ambon"
+    }
+  ]
+}

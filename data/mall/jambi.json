@@ -1,0 +1,42 @@
+{
+  "kategori": "Mall",
+  "provinsi": "Jambi",
+  "data": [
+    {
+      "id": "mall-jambi-001",
+      "nama": "JAMTOS (Jambi Town Square)",
+      "kota": "Jambi",
+      "provinsi": "Jambi",
+      "alamat": "Jl. Kapten A. Bakaruddin No. 88, Simpang III Sipin, Kec. Kota Baru, Kota Jambi",
+      "lat": -1.6142,
+      "lng": 103.5804,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0741-668888",
+      "keterangan": "Pusat belanja keluarga serba ada dan paling populer di Kota Jambi"
+    },
+    {
+      "id": "mall-jambi-002",
+      "nama": "WTC Batanghari",
+      "kota": "Jambi",
+      "provinsi": "Jambi",
+      "alamat": "Jl. Sultan Thaha No. 17, Pasar Jambi, Kec. Pasar Jambi, Kota Jambi",
+      "lat": -1.5891,
+      "lng": 103.6175,
+      "jam_operasional": "09:30 - 21:30",
+      "kontak": "0741-7550888",
+      "keterangan": "Mall yang terletak tepat di tepi Sungai Batanghari dengan panorama waterfront"
+    },
+    {
+      "id": "mall-jambi-003",
+      "nama": "Mall Wilton (Mall Jambi)",
+      "kota": "Jambi",
+      "provinsi": "Jambi",
+      "alamat": "Jl. Jend. Gatot Subroto No. 80, Cempaka Putih, Kec. Jelutung, Kota Jambi",
+      "lat": -1.6028,
+      "lng": 103.6163,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0741-7551234",
+      "keterangan": "Salah satu pusat perbelanjaan legendaris di kawasan bisnis Jelutung"
+    }
+  ]
+}

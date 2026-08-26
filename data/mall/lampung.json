@@ -1,0 +1,42 @@
+{
+  "kategori": "Mall",
+  "provinsi": "Lampung",
+  "data": [
+    {
+      "id": "mall-lampung-001",
+      "nama": "Mall Boemi Kedaton (MBK)",
+      "kota": "Bandar Lampung",
+      "provinsi": "Lampung",
+      "alamat": "Jl. Sultan Agung No. 1, Labuhan Ratu, Kec. Kedaton, Kota Bandar Lampung",
+      "lat": -5.3817,
+      "lng": 105.2592,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0721-780888",
+      "keterangan": "Pusat perbelanjaan terbesar dan paling populer di Provinsi Lampung"
+    },
+    {
+      "id": "mall-lampung-002",
+      "nama": "Mall Kartini",
+      "kota": "Bandar Lampung",
+      "provinsi": "Lampung",
+      "alamat": "Jl. Kartini No. 49, Palapa, Kec. Tanjung Karang Pusat, Kota Bandar Lampung",
+      "lat": -5.4182,
+      "lng": 105.2536,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0721-268888",
+      "keterangan": "Pusat perbelanjaan favorit di pusat kota dengan fasilitas bioskop dan ritel fashion"
+    },
+    {
+      "id": "mall-lampung-003",
+      "nama": "Mall Bumi Kedamaian / Simpur Center",
+      "kota": "Bandar Lampung",
+      "provinsi": "Lampung",
+      "alamat": "Jl. Raden Intan No. 32, Enggal, Kec. Tanjung Karang Pusat, Kota Bandar Lampung",
+      "lat": -5.4215,
+      "lng": 105.2581,
+      "jam_operasional": "09:00 - 21:00",
+      "kontak": "0721-255000",
+      "keterangan": "Pusat perbelanjaan ritel, elektronik, dan fashion terjangkau di Tanjung Karang"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "kategori": "Mall",
+  "provinsi": "Sulawesi Tenggara",
+  "data": [
+    {
+      "id": "mall-sultra-001",
+      "nama": "The Park Kendari",
+      "kota": "Kendari",
+      "provinsi": "Sulawesi Tenggara",
+      "alamat": "Jl. Brigjen M. Yoenoes, Kadia, Kec. Kadia, Kota Kendari",
+      "lat": -3.9802,
+      "lng": 122.5185,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0401-3138888",
+      "keterangan": "Pusat perbelanjaan dan gaya hidup modern terbesar serta terbaru di Sulawesi Tenggara dengan pilihan tenant ritel internasional dan bioskop"
+    },
+    {
+      "id": "mall-sultra-002",
+      "nama": "Lippo Plaza Kendari",
+      "kota": "Kendari",
+      "provinsi": "Sulawesi Tenggara",
+      "alamat": "Jl. M.T. Haryono No. 61, Bende, Kec. Kadia, Kota Kendari",
+      "lat": -3.9875,
+      "lng": 122.5152,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0401-3196888",
+      "keterangan": "Pusat perbelanjaan keluarga modern terlengkap yang dilengkapi Hypermart, Matahari Department Store, dan Cinepolis"
+    },
+    {
+      "id": "mall-sultra-003",
+      "nama": "Claro Kendari Mall & Entertainment",
+      "kota": "Kendari",
+      "provinsi": "Sulawesi Tenggara",
+      "alamat": "Jl. Edi Sabara No. 89, Lahundape, Kec. Kendari Barat, Kota Kendari",
+      "lat": -3.9682,
+      "lng": 122.5298,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0401-3111888",
+      "keterangan": "Pusat hiburan, kuliner, dan gaya hidup terintegrasi dengan Claro Hotel Kendari"
+    },
+    {
+      "id": "mall-sultra-004",
+      "nama": "Baubau Plaza & Mall Center",
+      "kota": "Baubau",
+      "provinsi": "Sulawesi Tenggara",
+      "alamat": "Jl. Sultan Hasanuddin, Batulo, Kec. Wolio, Kota Baubau",
+      "lat": -5.4642,
+      "lng": 122.6078,
+      "jam_operasional": "09:30 - 21:30",
+      "kontak": "0402-2821888",
+      "keterangan": "Pusat perbelanjaan ritel modern utama yang melayani kawasan Kota Baubau dan Pulau Buton"
+    }
+  ]
+}

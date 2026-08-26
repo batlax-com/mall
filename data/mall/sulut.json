@@ -1,0 +1,78 @@
+{
+  "kategori": "Mall",
+  "provinsi": "Sulawesi Utara",
+  "data": [
+    {
+      "id": "mall-025",
+      "nama": "Manado Town Square",
+      "kota": "Manado",
+      "provinsi": "Sulawesi Utara",
+      "alamat": "Jl. Piere Tendean No.88, Manado",
+      "lat": 1.4991,
+      "lng": 124.8365,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0431-885555",
+      "keterangan": "Mall utama di Manado"
+    },
+    {
+      "id": "mall-sulut-001",
+      "nama": "Manado Town Square (Mantos 1, 2, 3)",
+      "kota": "Manado",
+      "provinsi": "Sulawesi Utara",
+      "alamat": "Jl. Piere Tendean (Boulevard), Sario Tumpaan, Kec. Sario, Kota Manado",
+      "lat": 1.4728,
+      "lng": 124.8312,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0431-8881888",
+      "keterangan": "Pusat perbelanjaan megah dan terluas di Sulawesi Utara yang membentang di sepanjang kawasan reklamasi pantai Boulevard Manado"
+    },
+    {
+      "id": "mall-sulut-002",
+      "nama": "Mega Mall Manado",
+      "kota": "Manado",
+      "provinsi": "Sulawesi Utara",
+      "alamat": "Kawasan Megamas, Jl. Piere Tendean, Wenang Selatan, Kec. Wenang, Kota Manado",
+      "lat": 1.4885,
+      "lng": 124.8368,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0431-879888",
+      "keterangan": "Pusat gaya hidup dan perbelanjaan pioneer di kawasan perniagaan Megamas Manado dengan lanskap pemandangan laut"
+    },
+    {
+      "id": "mall-sulut-003",
+      "nama": "Lippo Plaza Manado",
+      "kota": "Manado",
+      "provinsi": "Sulawesi Utara",
+      "alamat": "Jl. AA Maramis, Kairagi Dua, Kec. Mapanget, Kota Manado",
+      "lat": 1.5012,
+      "lng": 124.8875,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0431-817888",
+      "keterangan": "Pusat perbelanjaan modern yang berlokasi di jalur utama menuju Bandara Internasional Sam Ratulangi"
+    },
+    {
+      "id": "mall-sulut-004",
+      "nama": "IT Center Manado",
+      "kota": "Manado",
+      "provinsi": "Sulawesi Utara",
+      "alamat": "Jl. Piere Tendean No. 1, Wenang Selatan, Kec. Wenang, Kota Manado",
+      "lat": 1.4872,
+      "lng": 124.8361,
+      "jam_operasional": "09:30 - 21:30",
+      "kontak": "0431-8820999",
+      "keterangan": "Pusat perbelanjaan khusus elektronik, ponsel, komputer, dan teknologi terbesar di Kota Manado"
+    },
+    {
+      "id": "mall-sulut-005",
+      "nama": "Grand Central Bitung",
+      "kota": "Bitung",
+      "provinsi": "Sulawesi Utara",
+      "alamat": "Jl. Wolter Monginsidi, Girang, Kec. Madidir, Kota Bitung",
+      "lat": 1.4428,
+      "lng": 125.1215,
+      "jam_operasional": "09:30 - 21:30",
+      "kontak": "0438-38888",
+      "keterangan": "Pusat perbelanjaan ritel modern dan bioskop utama yang melayani kawasan Kota Pelabuhan Bitung"
+    }
+  ]
+}

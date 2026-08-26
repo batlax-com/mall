@@ -1,0 +1,42 @@
+{
+  "kategori": "Mall",
+  "provinsi": "Papua Barat Daya",
+  "data": [
+    {
+      "id": "mall-pbd-001",
+      "nama": "Saga Shopping Center Sorong",
+      "kota": "Sorong",
+      "provinsi": "Papua Barat Daya",
+      "alamat": "Jl. Ahmad Yani No. 1, Malawei, Kec. Sorong Manoi, Kota Sorong",
+      "lat": -0.8752,
+      "lng": 131.2598,
+      "jam_operasional": "09:30 - 21:30",
+      "kontak": "0951-321888",
+      "keterangan": "Pusat perbelanjaan ritel modern dan departemen store terfavorit di pusat Kota Sorong"
+    },
+    {
+      "id": "mall-pbd-002",
+      "nama": "Mega Supermarket & Retail Center",
+      "kota": "Sorong",
+      "provinsi": "Papua Barat Daya",
+      "alamat": "Jl. Basuki Rahmat Km. 9, Klawuyuk, Kec. Sorong Timur, Kota Sorong",
+      "lat": -0.8915,
+      "lng": 131.3042,
+      "jam_operasional": "09:30 - 21:30",
+      "kontak": "0951-332555",
+      "keterangan": "Pusat belanja keluarga dan ritel modern terlengkap di kawasan Sorong Timur"
+    },
+    {
+      "id": "mall-pbd-003",
+      "nama": "Sorong Plaza",
+      "kota": "Sorong",
+      "provinsi": "Papua Barat Daya",
+      "alamat": "Jl. Yos Sudarso, Kampung Baru, Kec. Sorong Kota, Kota Sorong",
+      "lat": -0.8681,
+      "lng": 131.2485,
+      "jam_operasional": "09:00 - 21:00",
+      "kontak": "0951-312211",
+      "keterangan": "Pusat niaga ritel fashion, barang elektronik, dan kebutuhan harian legendaris di area Kampung Baru"
+    }
+  ]
+}

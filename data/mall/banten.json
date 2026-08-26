@@ -1,0 +1,102 @@
+{
+  "kategori": "Mall",
+  "provinsi": "Banten",
+  "data": [
+    {
+      "id": "mall-009",
+      "nama": "AEON Mall BSD",
+      "kota": "Tangerang Selatan",
+      "provinsi": "Banten",
+      "alamat": "Jl. BSD Raya Utama, Tangerang Selatan",
+      "lat": -6.3108,
+      "lng": 106.6566,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "021-29133666",
+      "keterangan": "Mall bergaya Jepang pertama di BSD"
+    },
+    {
+      "id": "mall-010",
+      "nama": "Summarecon Mall Serpong",
+      "kota": "Tangerang Selatan",
+      "provinsi": "Banten",
+      "alamat": "Jl. Boulevard Raya Gading Serpong, Tangerang Selatan",
+      "lat": -6.2701,
+      "lng": 106.6217,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "021-29678888",
+      "keterangan": "Mall utama di kawasan Gading Serpong"
+    },
+    {
+      "id": "mall-banten-001",
+      "nama": "Supermal Karawaci",
+      "kota": "Tangerang",
+      "provinsi": "Banten",
+      "alamat": "Jl. Bulevar Diponegoro No. 105, Bencongan, Kec. Kelapa Dua, Kab. Tangerang",
+      "lat": -6.2254,
+      "lng": 106.6068,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "021-5466666",
+      "keterangan": "Salah satu mal seluas megapolitan terbesar di Banten dengan hiburan arena bermain indoor Timezone terbesar"
+    },
+    {
+      "id": "mall-banten-002",
+      "nama": "Summarecon Mall Serpong (SMS)",
+      "kota": "Tangerang",
+      "provinsi": "Banten",
+      "alamat": "Jl. Gading Serpong Boulevard, Pakulonan Barat, Kec. Kelapa Dua, Kab. Tangerang",
+      "lat": -6.2411,
+      "lng": 106.6283,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "021-5468688",
+      "keterangan": "Pusat gaya hidup dan perbelanjaan keluarga terkemuka di Gading Serpong dengan area kuliner Downtown Walk"
+    },
+    {
+      "id": "mall-banten-003",
+      "nama": "AEON Mall BSD City",
+      "kota": "Tangerang Selatan",
+      "provinsi": "Banten",
+      "alamat": "Jl. BSD Raya Utama, Pagedangan, Kec. Pagedangan, Kab. Tangerang",
+      "lat": -6.3045,
+      "lng": 106.6438,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "021-29168555",
+      "keterangan": "Mall gaya Jepang terbesar yang terkenal dengan kuliner khas Jepang dan supermarket AEON"
+    },
+    {
+      "id": "mall-banten-004",
+      "nama": "Bintaro Jaya Xchange Mall (BXc)",
+      "kota": "Tangerang Selatan",
+      "provinsi": "Banten",
+      "alamat": "Jl. Boulevard Bintaro Jaya, Pondok Jaya, Kec. Pondok Aren, Kota Tangerang Selatan",
+      "lat": -6.2842,
+      "lng": 106.7281,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "021-29864888",
+      "keterangan": "Mall modern terintegrasi stasiun KRL Jurangmangu yang dilengkapi wahana es outdoor (BX Rink) dan Oceanarium"
+    },
+    {
+      "id": "mall-banten-005",
+      "nama": "Mall Of Serang (MOS)",
+      "kota": "Serang",
+      "provinsi": "Banten",
+      "alamat": "Jl. Akses Tol Serang Timur, Panancangan, Kec. Cipocok Jaya, Kota Serang",
+      "lat": -6.1248,
+      "lng": 106.1824,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0254-8483888",
+      "keterangan": "Pusat perbelanjaan dan tempat rekreasi keluarga terbesar di Ibukota Provinsi Banten"
+    },
+    {
+      "id": "mall-banten-006",
+      "nama": "Cilegon Center Mall (CCM)",
+      "kota": "Cilegon",
+      "provinsi": "Banten",
+      "alamat": "Jl. A. Yani No. 110, Sukmajaya, Kec. Jombang, Kota Cilegon",
+      "lat": -6.0189,
+      "lng": 106.0543,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0254-7811888",
+      "keterangan": "Mall gaya hidup paling modern di Kota Industri Cilegon"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "kategori": "Mall",
+  "provinsi": "Papua",
+  "data": [
+    {
+      "id": "mall-papua-001",
+      "nama": "Mall Jayapura",
+      "kota": "Jayapura",
+      "provinsi": "Papua",
+      "alamat": "Jl. Dr. Sam Ratulangi No. 1, Bayangkara, Kec. Jayapura Utara, Kota Jayapura",
+      "lat": -2.5385,
+      "lng": 140.7042,
+      "jam_operasional": "10:00 - 22:00",
+      "kontak": "0967-531888",
+      "keterangan": "Pusat perbelanjaan dan gaya hidup modern terbesar serta paling ikonik di Kota Jayapura yang terletak strategis menghadap Teluk Yotefa"
+    },
+    {
+      "id": "mall-papua-002",
+      "nama": "Saga Mall Abepura",
+      "kota": "Jayapura",
+      "provinsi": "Papua",
+      "alamat": "Jl. Raya Abepura, Wai Mhorock, Kec. Abepura, Kota Jayapura",
+      "lat": -2.5982,
+      "lng": 140.6725,
+      "jam_operasional": "09:30 - 21:30",
+      "kontak": "0967-581555",
+      "keterangan": "Pusat belanja ritel, supermarket, dan departemen store keluarga terfavorit di kawasan perkotaan Abepura"
+    },
+    {
+      "id": "mall-papua-003",
+      "nama": "Jayapura Shopping Center (JSC)",
+      "kota": "Jayapura",
+      "provinsi": "Papua",
+      "alamat": "Jl. Ahmad Yani, Gurabesi, Kec. Jayapura Utara, Kota Jayapura",
+      "lat": -2.5352,
+      "lng": 140.7088,
+      "jam_operasional": "09:00 - 21:00",
+      "kontak": "0967-532111",
+      "keterangan": "Pusat niaga ritel fashion, elektronik, dan produk harian masyarakat di pusat bisnis Kota Jayapura"
+    }
+  ]
+}
