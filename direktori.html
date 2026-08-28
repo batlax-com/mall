@@ -8,6 +8,70 @@
 <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="style.css">
 <link rel="stylesheet" href="direktori.css">
+<style>
+/* ============================================================
+   TOMBOL KEMBALI KE ATAS (FLOATING)
+   ============================================================ */
+#backToTop {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+  width: 55px;
+  height: 55px;
+  background: linear-gradient(135deg, #facc15, #f97316);
+  color: #0f172a;
+  border: none;
+  border-radius: 50%;
+  font-size: 28px;
+  font-weight: 700;
+  cursor: pointer;
+  box-shadow: 0 6px 20px rgba(250, 204, 21, 0.4);
+  transition: all 0.3s ease;
+  z-index: 999;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(20px);
+}
+
+#backToTop:hover {
+  transform: translateY(-3px) scale(1.05);
+  box-shadow: 0 8px 30px rgba(250, 204, 21, 0.6);
+}
+
+#backToTop.show {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+
+#backToTop:active {
+  transform: scale(0.9);
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  #backToTop {
+    width: 48px;
+    height: 48px;
+    font-size: 22px;
+    bottom: 20px;
+    right: 20px;
+  }
+}
+
+/* Animasi panah */
+#backToTop .arrow {
+  display: inline-block;
+  transition: transform 0.3s ease;
+}
+
+#backToTop:hover .arrow {
+  transform: translateY(-3px);
+}
+</style>
 </head>
 <body class="direktori-body">
 
@@ -37,6 +101,39 @@
   </div>
 
 </div>
+
+<!-- ============================================================
+     TOMBOL KEMBALI KE ATAS
+     ============================================================ -->
+<button id="backToTop" aria-label="Kembali ke atas">
+  <span class="arrow">↑</span>
+</button>
+
+<script>
+// ============================================================
+// LOGIKA TOMBOL KEMBALI KE ATAS
+// ============================================================
+document.addEventListener('DOMContentLoaded', function() {
+  const backToTopBtn = document.getElementById('backToTop');
+
+  // Tampilkan/sembunyikan tombol berdasarkan scroll
+  window.addEventListener('scroll', function() {
+    if (window.scrollY > 300) {
+      backToTopBtn.classList.add('show');
+    } else {
+      backToTopBtn.classList.remove('show');
+    }
+  });
+
+  // Fungsi kembali ke atas dengan animasi halus
+  backToTopBtn.addEventListener('click', function() {
+    window.scrollTo({
+      top: 0,
+      behavior: 'smooth'
+    });
+  });
+});
+</script>
 
 <script src="direktori.js"></script>
 </body>
