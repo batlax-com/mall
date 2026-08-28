@@ -8,7 +8,7 @@ const KATEGORI = [
 
 const INDONESIA_BOUNDS = L.latLngBounds(
   [-11.38, 94.85],   // Titik barat daya (selatan Pulau Rote, barat Sabang)
-  [6.35, 141.09]     // Titik timur laut (utara Sabang, 10 km timur Skouw)
+  [6.35, 141.45]     // Titik timur laut (utara Sabang, 50 km timur Skouw / masuk area Vanimo PNG)
 );
 
 const map = L.map('map', {
