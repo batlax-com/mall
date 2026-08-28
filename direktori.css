@@ -1,0 +1,157 @@
+.direktori-body{
+  overflow-y: auto;
+  height: auto;
+  min-height: 100vh;
+}
+
+.nav-link{
+  color: #fff;
+  text-decoration: none;
+  font-size: 0.85rem;
+  font-weight: 500;
+  padding: 6px 14px;
+  border: 1px solid rgba(255,255,255,0.3);
+  border-radius: 20px;
+  transition: background 0.15s;
+}
+.nav-link:hover{ background: rgba(255,255,255,0.1); }
+
+.direktori-wrap{
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 28px 20px 60px;
+}
+
+.direktori-intro h1{
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 1.6rem;
+  margin-bottom: 8px;
+}
+.direktori-intro p{
+  color: #5a6260;
+  font-size: 0.92rem;
+  margin-bottom: 16px;
+  line-height: 1.5;
+}
+
+#direktoriSearch{
+  width: 100%;
+  padding: 11px 14px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  font-size: 0.95rem;
+  font-family: inherit;
+  background: var(--panel);
+}
+#direktoriSearch:focus{
+  outline: 2px solid var(--accent-pasar);
+  outline-offset: 1px;
+}
+
+.direktori-jumpnav{
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 20px 0 8px;
+}
+.jumpnav-btn{
+  font-size: 0.78rem;
+  font-weight: 600;
+  padding: 6px 12px;
+  border-radius: 20px;
+  color: #fff;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
+.direktori-loading{
+  color: #8a908f;
+  font-size: 0.9rem;
+  padding: 30px 0;
+  text-align: center;
+}
+
+.kategori-section{
+  margin-top: 36px;
+  scroll-margin-top: 20px;
+}
+.kategori-heading{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 1.25rem;
+  font-weight: 700;
+  padding-bottom: 8px;
+  border-bottom: 3px solid var(--line);
+  margin-bottom: 4px;
+}
+.kategori-heading .dot{
+  width: 14px; height: 14px; border-radius: 50%; flex-shrink: 0;
+}
+.kategori-heading .kategori-count{
+  margin-left: auto;
+  font-size: 0.8rem;
+  font-weight: 500;
+  color: #8a908f;
+}
+
+.provinsi-block{
+  margin-top: 18px;
+  scroll-margin-top: 20px;
+}
+.provinsi-heading{
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: #3a4141;
+  margin-bottom: 8px;
+  padding-left: 2px;
+}
+.provinsi-heading .provinsi-count{
+  color: #8a908f;
+  font-weight: 400;
+  font-size: 0.82rem;
+}
+
+.lokasi-grid{
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 10px;
+}
+
+.lokasi-card{
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 10px 12px;
+  background: var(--panel);
+}
+.lokasi-card .lc-nama{
+  font-weight: 600;
+  font-size: 0.88rem;
+}
+.lokasi-card .lc-kota{
+  font-size: 0.78rem;
+  color: #6b7373;
+  margin-top: 2px;
+}
+.lokasi-card .lc-jam{
+  font-size: 0.74rem;
+  color: #8a908f;
+  margin-top: 4px;
+}
+
+.direktori-empty{
+  color: #8a908f;
+  font-size: 0.88rem;
+  padding: 8px 0 20px;
+}
+
+.hidden{ display: none !important; }
+
+@media (max-width: 780px){
+  .direktori-wrap{ padding: 20px 14px 50px; }
+  .lokasi-grid{ grid-template-columns: 1fr 1fr; }
+}
+@media (max-width: 480px){
+  .lokasi-grid{ grid-template-columns: 1fr; }
+}

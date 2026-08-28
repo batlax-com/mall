@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Direktori Lokasi - Peta Pusat Perbelanjaan Indonesia</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@500;700&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="direktori.css">
+</head>
+<body class="direktori-body">
+
+<header class="topbar">
+  <div class="brand">
+    <span class="brand-mark">PETA</span>
+    <span class="brand-sub">Pusat Perbelanjaan Indonesia</span>
+  </div>
+  <a href="index.html" class="nav-link">← Lihat Peta</a>
+</header>
+
+<div class="direktori-wrap">
+
+  <div class="direktori-intro">
+    <h1>Direktori Lokasi</h1>
+    <p>Daftar lengkap seluruh mall, pasar, swalayan, dan pusat perbelanjaan yang tercatat, dikelompokkan per kategori dan per provinsi.</p>
+    <input type="text" id="direktoriSearch" placeholder="Cari nama lokasi, kota, atau provinsi...">
+  </div>
+
+  <nav class="direktori-jumpnav" id="jumpNav">
+    <!-- diisi otomatis oleh direktori.js: tombol lompat per kategori -->
+  </nav>
+
+  <div id="direktoriContent" class="direktori-content">
+    <!-- diisi otomatis oleh direktori.js -->
+    <p class="direktori-loading">Memuat data...</p>
+  </div>
+
+</div>
+
+<script src="direktori.js"></script>
+</body>
+</html>

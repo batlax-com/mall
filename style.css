@@ -26,12 +26,27 @@ body{
   display:flex;
   align-items:center;
   justify-content:space-between;
+  gap:12px;
   padding:0 20px;
   background:var(--brand);
   color:#fff;
   position:relative;
   z-index:1000;
 }
+
+.nav-link{
+  color:#fff;
+  text-decoration:none;
+  font-size:0.8rem;
+  font-weight:500;
+  padding:6px 14px;
+  border:1px solid rgba(255,255,255,0.3);
+  border-radius:20px;
+  white-space:nowrap;
+  transition:background 0.15s;
+  margin-left:auto;
+}
+.nav-link:hover{background:rgba(255,255,255,0.1);}
 
 .brand{display:flex;align-items:baseline;gap:10px;}
 .brand-mark{
@@ -191,6 +206,8 @@ body{
 }
 
 @media (max-width: 780px){
+  .brand-sub{display:none;}
+  .nav-link{font-size:0.72rem;padding:5px 10px;}
   .menu-toggle{display:block;}
   .sidebar{
     position:fixed;
