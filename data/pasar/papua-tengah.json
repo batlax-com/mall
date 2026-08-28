@@ -1,5 +1,138 @@
 {
   "kategori": "Pasar",
   "provinsi": "Papua Tengah",
-  "data": []
+  "data": [
+    {
+      "id": "papt-001",
+      "nama": "Pasar Karang Tumaritis",
+      "kota": "Nabire",
+      "alamat": "Karang Tumaritis, Nabire",
+      "lat": -3.3665,
+      "lng": 135.4915,
+      "jam_operasional": "Setiap Hari",
+      "kontak": "-",
+      "keterangan": "Pasar bahan makanan di Nabire. Tahun berdiri 1993, renovasi 2013. Dikelola Pemerintah Daerah/BUMD/Adat.",
+      "provinsi": "Papua Tengah"
+    },
+    {
+      "id": "papt-002",
+      "nama": "Pasar Pagi Gotong Royong",
+      "kota": "Nabire",
+      "alamat": "Jl. Perintis, Bumi Wonorejo, Nabire",
+      "lat": -3.3625,
+      "lng": 135.4960,
+      "jam_operasional": "Setiap Hari",
+      "kontak": "-",
+      "keterangan": "Pasar makanan jadi, minuman, rokok, dan tembakau. Tahun berdiri 1996, renovasi 2015. Dikelola Swasta.",
+      "provinsi": "Papua Tengah"
+    },
+    {
+      "id": "papt-003",
+      "nama": "Pasar Sama Busa",
+      "kota": "Nabire",
+      "alamat": "Samabusatelung Kuninabung, Nabire",
+      "lat": -3.3500,
+      "lng": 135.4800,
+      "jam_operasional": "Setiap Hari",
+      "kontak": "-",
+      "keterangan": "Pasar bahan makanan di Nabire. Tahun berdiri 2010, renovasi 2014. Dikelola Pemerintah Daerah/BUMD/Adat.",
+      "provinsi": "Papua Tengah"
+    },
+    {
+      "id": "papt-004",
+      "nama": "Pasar Sentral Kalibobo",
+      "kota": "Nabire",
+      "alamat": "Jl. Christina Martha Tiahahu, Kalibobo, Nabire",
+      "lat": -3.3672,
+      "lng": 135.4880,
+      "jam_operasional": "Setiap Hari",
+      "kontak": "-",
+      "keterangan": "Pasar bahan makanan di Nabire. Tahun berdiri 1993, renovasi 2017. Dikelola Pemerintah Daerah/BUMD/Adat.",
+      "provinsi": "Papua Tengah"
+    },
+    {
+      "id": "papt-005",
+      "nama": "Pasar Rakyat",
+      "kota": "Mimika",
+      "alamat": "Jl. Cenderawasih, Kab. Mimika",
+      "lat": -4.5369,
+      "lng": 136.8898,
+      "jam_operasional": "Setiap Hari",
+      "kontak": "-",
+      "keterangan": "Pasar bahan makanan di Mimika. Tahun berdiri 2008, renovasi 2015. Dikelola Swasta.",
+      "provinsi": "Papua Tengah"
+    },
+    {
+      "id": "papt-006",
+      "nama": "Pasar Sentral",
+      "kota": "Mimika",
+      "alamat": "Jl. Irigasi, Kab. Mimika",
+      "lat": -4.5300,
+      "lng": 136.8900,
+      "jam_operasional": "Setiap Hari",
+      "kontak": "-",
+      "keterangan": "Pasar bahan makanan di Mimika. Tahun berdiri 2013, renovasi 2019. Dikelola Pemerintah Daerah/BUMD/Adat.",
+      "provinsi": "Papua Tengah"
+    },
+    {
+      "id": "papt-007",
+      "nama": "Pasar Kota Baru Mulia",
+      "kota": "Puncak Jaya",
+      "alamat": "Pruleme, Mulia, Kab. Puncak Jaya",
+      "lat": -3.7184,
+      "lng": 137.9961,
+      "jam_operasional": "6 Hari Per Minggu",
+      "kontak": "-",
+      "keterangan": "Pasar bahan makanan di Mulia. Tahun berdiri 2017. Dikelola Pemerintah Daerah/BUMD/Adat. Kode Pos: 98973.",
+      "provinsi": "Papua Tengah"
+    },
+    {
+      "id": "papt-008",
+      "nama": "Pasar Sentral Mulia",
+      "kota": "Puncak Jaya",
+      "alamat": "Desa Kulokenggane, Kab. Puncak Jaya",
+      "lat": -3.7000,
+      "lng": 138.0000,
+      "jam_operasional": "6 Hari Per Minggu",
+      "kontak": "-",
+      "keterangan": "Pasar tekstil/barang dari tekstil di Mulia. Tahun berdiri 2017. Dikelola Pemerintah Daerah/BUMD/Adat.",
+      "provinsi": "Papua Tengah"
+    },
+    {
+      "id": "papt-009",
+      "nama": "Pasar Beoga",
+      "kota": "Puncak",
+      "alamat": "Kampung Milawak, Kab. Puncak",
+      "lat": -4.0210,
+      "lng": 137.1421,
+      "jam_operasional": "6 Hari Per Minggu",
+      "kontak": "-",
+      "keterangan": "Pasar bahan makanan di Beoga, Kab. Puncak. Tahun berdiri 1999. Dikelola Pemerintah Daerah/BUMD/Adat. Kode Pos: 98951.",
+      "provinsi": "Papua Tengah"
+    },
+    {
+      "id": "papt-010",
+      "nama": "Pasar Ilaga",
+      "kota": "Puncak",
+      "alamat": "Kampung Kimak, Kab. Puncak",
+      "lat": -4.0419,
+      "lng": 137.1262,
+      "jam_operasional": "6 Hari Per Minggu",
+      "kontak": "-",
+      "keterangan": "Pasar bahan makanan di Ilaga, Kab. Puncak. Tahun berdiri 1999. Dikelola Pemerintah Daerah/BUMD/Adat. Kode Pos: 98965.",
+      "provinsi": "Papua Tengah"
+    },
+    {
+      "id": "papt-011",
+      "nama": "Pasar Sinak",
+      "kota": "Puncak",
+      "alamat": "Kampung Gigobak, Kab. Puncak",
+      "lat": -3.9685,
+      "lng": 137.2362,
+      "jam_operasional": "6 Hari Per Minggu",
+      "kontak": "-",
+      "keterangan": "Pasar bahan makanan di Sinak, Kab. Puncak. Tahun berdiri 1999. Dikelola Pemerintah Daerah/BUMD/Adat. Kode Pos: 98977.",
+      "provinsi": "Papua Tengah"
+    }
+  ]
 }
