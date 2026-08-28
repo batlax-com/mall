@@ -1,5 +1,45 @@
 {
   "kategori": "Pasar",
   "provinsi": "Papua",
-  "data": []
-}
+  "data": [
+    {
+      "id": "papu-018",
+      "nama": "Kompleks Pasar Lama",
+      "kota": "Jayapura",
+      "alamat": "Jl. Hinekombe, Pasar Lama, Kota Jayapura",
+      "lat": -2.5335,
+      "lng": 140.7207,
+      "jam_operasional": "1 Hari Per Minggu",
+      "kontak": "-",
+      "keterangan": "Pasar kerajinan dan alat kesenian. Tahun berdiri 1980. Dikelola Pemerintah Pusat.",
+      "provinsi": "Papua"
+    },
+    {
+      "id": "papu-019",
+      "nama": "Pasar Merem",
+      "kota": "Jayapura",
+      "alamat": "Kampung Damoi Kati, Kab. Jayapura",
+      "lat": -2.5700,
+      "lng": 140.7100,
+      "jam_operasional": "1 Hari Per Minggu",
+      "kontak": "-",
+      "keterangan": "Pasar makanan jadi, minuman, rokok, dan tembakau. Tahun berdiri 1992. Dikelola Pemerintah Pusat.",
+      "provinsi": "Papua"
+    },
+    {
+      "id": "papu-020",
+      "nama": "Pasar Benyom Jaya I",
+      "kota": "Jayapura",
+      "alamat": "KP Benyom Jaya 1, Kab. Jayapura",
+      "lat": -2.5600,
+      "lng": 140.7000,
+      "jam_operasional": "Tidak Tersedia",
+      "kontak": "-",
+      "keterangan": "Pasar elektronik & perlengkapan rumah tangga. Tahun berdiri 1991. Dikelola Pemerintah Pusat.",
+      "provinsi": "Papua"
+    },
+    {
+      "id": "papu-021",
+      "nama": "Pasar BTN Furia Sentani",
+      "kota": "Jayapura",
+      "alamat": "Jl. Dobonsolo, Pasar Baru, Kab.
