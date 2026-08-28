@@ -6,12 +6,9 @@ const KATEGORI = [
   { kat: "pusat-perbelanjaan", label: "Pusat Perbelanjaan", color: "#264653" }
 ];
 
-// Batas area peta: hanya wilayah Indonesia, dengan buffer ~50km di luar
-// Sabang (barat) dan Merauke (timur), serta buffer serupa di utara/selatan
-// agar seluruh wilayah Indonesia tetap tercakup.
 const INDONESIA_BOUNDS = L.latLngBounds(
-  [-11.38, 94.85],  // titik barat daya (selatan Pulau Rote, barat Sabang)
-  [6.35, 140.85]     // titik timur laut (utara Sabang, timur Merauke)
+  [-11.38, 94.85],   // Titik barat daya (selatan Pulau Rote, barat Sabang)
+  [6.35, 141.09]     // Titik timur laut (utara Sabang, 10 km timur Skouw)
 );
 
 const map = L.map('map', {
