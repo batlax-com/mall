@@ -6,7 +6,20 @@ const KATEGORI = [
   { kat: "pusat-perbelanjaan", label: "Pusat Perbelanjaan", color: "#264653" }
 ];
 
-const map = L.map('map', { zoomControl: true }).setView([-2.5, 118], 5);
+// Batas area peta: hanya wilayah Indonesia, dengan buffer ~50km di luar
+// Sabang (barat) dan Merauke (timur), serta buffer serupa di utara/selatan
+// agar seluruh wilayah Indonesia tetap tercakup.
+const INDONESIA_BOUNDS = L.latLngBounds(
+  [-11.38, 94.85],  // titik barat daya (selatan Pulau Rote, barat Sabang)
+  [6.35, 140.85]     // titik timur laut (utara Sabang, timur Merauke)
+);
+
+const map = L.map('map', {
+  zoomControl: true,
+  maxBounds: INDONESIA_BOUNDS,
+  maxBoundsViscosity: 1.0,
+  minZoom: 5
+}).setView([-2.5, 118], 5);
 
 L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
   attribution: 'Tiles &copy; Esri &mdash; Source: Esri, Maxar, Earthstar Geographics, and the GIS User Community',
